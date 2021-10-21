@@ -43,20 +43,17 @@ in english. <!-- in english [EN] and spanish [ES] -->
 
 ## BIO
 
-### NOW
+### now
 
 -   💻 Freelancer; <!-- coach -->
 -   ✒️ Writing my thesis manuscripts and grad school applications!
-
-### LASTLY
-
 -   ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/)
     package 📦;
 -   ⭐ Coordinator in a last [outbreak analysis
     course](https://www.cursoepidemias-col-peru-2021.org/) in
     [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 
-### CV
+### bio
 
 -   🏠 I am a computationally-oriented **geneticist** formally trained in
     quantitative **epidemiological research**;
@@ -73,7 +70,7 @@ in english. <!-- in english [EN] and spanish [ES] -->
     about antibody responses and severe vivax malaria with protein
     microarrays (**UNMSM, 2015**);
 
-### ALSO
+### also
 
 -   ⚙️ I am a fluent **`R`** programmer, proficient data **wrangler**
     and **visualization** enthusiast.
