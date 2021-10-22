@@ -302,5 +302,3 @@ status: learning in progress!
 - 💕 I intentionally used **cam** in reference to my [chinese](https://www.mychinaroots.com/surnames/detail?word=Campos) ancestry
 <!-- - 📦 It is also the name of my first R package, now hosted [elsewhere](https://avallecam.github.io/epihelper/)  -->
 
-> format inspired by: https://github.com/seabbs/
-
