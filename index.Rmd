@@ -83,9 +83,13 @@ This site contains **links** to all my (reusable) scientific **contributions**. 
 
 #### also
 
-- ⚙️ I am a fluent **`R`** programmer, proficient data **wrangler** and **visualization** enthusiast. 
+- ⚙️ I am a proficient **`R` user**, expert data **wrangler** and **visualization** enthusiast. 
+- ☁️ I am fluid with using `bash` for **automation** and `shh` **remote** server connections.
 - 📀 I have made analysis **workflows** with **omic**, serological, gps, health service and **spatio-temporal** data;
 - 🥤 I have complemented my **training** with awesome communities: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/);
+
+#### contact
+
 - 💬 Ping me about **applied biostatistics**, **data science education**, and **reproducible research**;
 - 📫 Reach me: [avallecam@gmail.com](avallecam@gmail.com);
 - 🐤 Tweet me: [`@avallecam`](https://twitter.com/avallecam).
