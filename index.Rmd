@@ -156,14 +156,11 @@ status: learning in progress!
 
 #### texts
 
-- 📌 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
+- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
+https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
 
-  - 🔖 link: https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
-
-- 📌 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
-
-  - 🔖 link: https://avallecam.github.io/health_data_science_editorial/20191208-cdc_editorial.html
-  - 🍲 repo: https://avallecam.github.io/health_data_science_editorial/
+- 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
+https://avallecam.github.io/health_data_science_editorial/
 
 --------------------------------------
 
