@@ -12,15 +12,13 @@ output:
 }
 
 body {
-    font-family: "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 15px;
-    line-height: 1.7;
+    background-color: #fff;
+    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: normal;
     color: #222;
-}
-
-body {
     font-weight: 400;
 }
+
 
 p {
   margin-bottom: 16px;
