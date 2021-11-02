@@ -41,7 +41,7 @@ knitr::opts_chunk$set(
 
 # `r emo::ji("peru")` **Andree Valle-Campos** (él/he/his)
 
-![](figure/avallecam-perfil-20210426-2.jpeg){ width=100% }
+![](figure/avallecam-profile-20211030.jpeg){ width=100% }
 
 ## __I'm a geneticist skilled in health data science__
 
@@ -93,13 +93,12 @@ This website contains **links** to all my (reusable) scientific **contributions*
 #### bio
 
 - 🏠 I am a computationally-oriented **geneticist** formally trained in quantitative **epidemiological research**;
-- 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ&hl=es);
 <!-- - 📜 I did my [MSc](https://github.com/avallecam/movmal) at the **Universidad Peruana Cayetano Heredia** (2018); -->
 - 📜 I did my [MSc](https://github.com/avallecam/movmal) research about human mobility and malaria history in the peruvian amazon (**UPCH, 2018**);
 <!-- - 📜 I did my [BSc](https://github.com/avallecam/abnomic) at the **Universidad Nacional Mayor de San Marcos** (2015); -->
 - 📜 I did my [BSc](https://github.com/avallecam/abnomic) research about antibody responses and severe vivax malaria with protein microarrays (**UNMSM, 2015**);
 
-#### also
+#### skills
 
 - ⚙️ I am a proficient **`R` user**, expert data **wrangler** and **visualization** enthusiast. 
 - ☁️ I am fluid with using `bash` for **automation** and `shh` **remote** computing.
@@ -152,13 +151,27 @@ status: learning in progress!
 - 🌍 I have contributed **answers** for the [stackoverflow](https://stackoverflow.com/users/6702544/avallecam) community;
 - 💌 I collect helpful **links** for a lot of topics in a public [trello board](https://trello.com/b/xtO9VP36/scibites).
 
-#### texts
+#### writings
 
 - 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
 https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
 
 - 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
 https://avallecam.github.io/health_data_science_editorial/
+
+#### publications
+
+- 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ&hl=es);
+
+
+```{r,message=FALSE,warning=FALSE}
+library(tidyverse)
+scholar::get_publications("p1Tq4esAAAAJ") %>% 
+  as_tibble() %>% 
+  knitr::kable()
+```
+
+
 
 --------------------------------------
 
@@ -167,6 +180,8 @@ https://avallecam.github.io/health_data_science_editorial/
 ### talks
 
 🔔 __serosurvey: Serological Surveys and Prevalence Estimation Under Misclassification, 2021__
+
+![](figure/front-serosurvey.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/serosurvey-user21 
 - 🍿 video: https://youtu.be/0mugb1mE68g
@@ -177,6 +192,8 @@ https://avallecam.github.io/health_data_science_editorial/
 - 🍭 slides: https://bit.ly/espacial2021 
 
 🔔 __[ES] Analysis of #multiple epidemics and prevalences with R and purrr, 2020__
+
+![](figure/front-purrr.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/bbslisepi 
 - 🍿 video: https://youtu.be/mxX8tDmC45E
@@ -193,7 +210,7 @@ https://avallecam.github.io/health_data_science_editorial/
 
 🔔 __[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru, 2019__
 
-- 💾 poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg 
+- 💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg 
 - 🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/
 
 <!-- 🔔 __[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package, 2019__ -->
@@ -208,6 +225,8 @@ https://avallecam.github.io/health_data_science_editorial/
 
 🔔 __[ES] R applied to epidemiology, 2019__
 
+![](figure/front-epiapli.PNG){ width=100% }
+
 - 🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia 
 - 🍿 video: https://youtu.be/C3Yqw883jrs
 - 🍲 repo: https://avallecam.github.io/epiapli2019/ 
@@ -220,6 +239,8 @@ https://avallecam.github.io/health_data_science_editorial/
 
 📌 __[ES] Data analysis in epidemiological surveillance II: spatial analysis, 2021__
 
+![](figure/front-lecture-spatial.PNG){ width=100% }
+
 - 🍭 slides: http://bit.ly/episurv2021parte2 
 - ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2  
 
@@ -230,17 +251,26 @@ https://avallecam.github.io/health_data_science_editorial/
 
 📌 __[ES] Visualizing public health and field epidemiology data, 2021__
 
+![](figure/front-lecture-dashboards.PNG){ width=100% }
+
 - 🍭 slides: https://bit.ly/epiviz2021 
 
 📌 __[ES] Algorithms for the detection of aberrations in epidemiological surveillance, 2020__
 
+![](figure/front-lecture-surveillance.PNG){ width=100% }
+
 - 🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html#1
+- 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd
 
 📌 __[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer, 2016__
 
+![](figure/front-lecture-tardigate.PNG){ width=100% }
+
 - 🍭 slides: https://bit.ly/tardigate2016 
 
-📌 __[ES] Gene regulatory networks, 2015-2017__
+📌 __[ES] Gene regulatory networks using graph theory and finite automatas, 2015-2017__
+
+![](figure/front-lecture-grn-2.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/biomath2017_ 
 - ⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb
@@ -254,20 +284,28 @@ https://avallecam.github.io/health_data_science_editorial/
 
 🖐️ __[ES] Introduction to statistical analysis of epidemics, 2021__
 
+![](figure/front-workshop-outbreak.PNG){ width=100% }
+
 - 🍭 slides: https://bit.ly/cursoepidemias-analisisbrote 
 - ⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html
 
 🖐️ __[ES] Introduction to R and Rstudio, 2021__
+
+![](figure/front-workshop-intror.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/cursoepidemia-intror 
 - ⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html
 
 🖐️ __[ES] Introduction to ggplot2, 2021__
 
+![](figure/front-workshop-ggplot.PNG){ width=100% }
+
 - 🍭 slides: https://bit.ly/r08ggplot2 
 - 🍲 repo: https://github.com/avallecam/workshop_ggplot2 
 
 🖐️ __[ES] Introduction to the use of R projects, 2021__
+
+![](figure/front-workshop-projects.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/r02proyectos 
 - 🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html
@@ -279,6 +317,8 @@ https://avallecam.github.io/health_data_science_editorial/
 
 🖐️ __[ES] Inferential statistics in R, 2019__
 
+![](figure/front-workshop-biostats.PNG){ width=100% }
+
 - 🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html#1 
 - 🍲 repo: https://avallecam.github.io/biostat2019/ 
 
@@ -287,6 +327,8 @@ https://avallecam.github.io/health_data_science_editorial/
 - 🍲 repo: https://github.com/avallecam/bioinfo2019 
 
 🖐️ __[ES] Reproducible Science and Microarray Analysis, 2017__
+
+![](figure/front-workshop-reprosci.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/reproscience-intro 
 - ⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html
