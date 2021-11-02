@@ -193,7 +193,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🔔 __[ES] Analysis of #multiple epidemics and prevalences with R and purrr, 2020__
 
-![](figure/front-purrr.PNG){ width=100% }
+![](figure/front-talk-purrr-4.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/bbslisepi 
 - 🍿 video: https://youtu.be/mxX8tDmC45E
@@ -225,7 +225,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🔔 __[ES] R applied to epidemiology, 2019__
 
-![](figure/front-epiapli.PNG){ width=100% }
+![](figure/front-talk-epiapli-4.PNG){ width=100% }
 
 - 🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia 
 - 🍿 video: https://youtu.be/C3Yqw883jrs
@@ -239,7 +239,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 📌 __[ES] Data analysis in epidemiological surveillance II: spatial analysis, 2021__
 
-![](figure/front-lecture-spatial.PNG){ width=100% }
+<!--![](figure/front-lecture-spatial.PNG){ width=100% }-->
 
 - 🍭 slides: http://bit.ly/episurv2021parte2 
 - ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2  
@@ -251,26 +251,26 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 📌 __[ES] Visualizing public health and field epidemiology data, 2021__
 
-![](figure/front-lecture-dashboards.PNG){ width=100% }
+![](figure/front-lecture-dashboards-2.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/epiviz2021 
 
 📌 __[ES] Algorithms for the detection of aberrations in epidemiological surveillance, 2020__
 
-![](figure/front-lecture-surveillance.PNG){ width=100% }
+<!--![](figure/front-lecture-surveillance.PNG){ width=100% }-->
 
 - 🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html#1
 - 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd
 
 📌 __[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer, 2016__
 
-![](figure/front-lecture-tardigate.PNG){ width=100% }
+![](figure/front-lecture-tardigate-3.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/tardigate2016 
 
 📌 __[ES] Gene regulatory networks using graph theory and finite automatas, 2015-2017__
 
-![](figure/front-lecture-grn-2.PNG){ width=100% }
+![](figure/front-lecture-grn-3.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/biomath2017_ 
 - ⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb
@@ -298,14 +298,14 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🖐️ __[ES] Introduction to ggplot2, 2021__
 
-![](figure/front-workshop-ggplot.PNG){ width=100% }
+![](figure/front-workshop-ggplot-2.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/r08ggplot2 
 - 🍲 repo: https://github.com/avallecam/workshop_ggplot2 
 
 🖐️ __[ES] Introduction to the use of R projects, 2021__
 
-![](figure/front-workshop-projects.PNG){ width=100% }
+![](figure/front-workshop-projects-3.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/r02proyectos 
 - 🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html
@@ -317,12 +317,14 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🖐️ __[ES] Inferential statistics in R, 2019__
 
-![](figure/front-workshop-biostats.PNG){ width=100% }
+![](figure/front-talk-biostat-2.PNG){ width=100% }
 
 - 🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html#1 
 - 🍲 repo: https://avallecam.github.io/biostat2019/ 
 
 🖐️ __[ES] Microarray analysis with Tidyverse and Bioconductor, 2019__
+
+![](figure/front-workflow-microarrays.PNG){ width=100% }
 
 - 🍲 repo: https://github.com/avallecam/bioinfo2019 
 
@@ -361,7 +363,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 #### avallecam
 
 - 🌞 Stands for **a**ndree **valle** **cam**pos.
-- 💕 I intentionally used **cam** in reference to my [chinese](https://www.mychinaroots.com/surnames/detail?word=Campos) ancestry
+- 💕 I intentionally used **cam** in reference to my [tusan](https://www.mychinaroots.com/surnames/detail?word=Campos) ancestry
 <!-- - 📦 It is also the name of my first R package, now hosted [elsewhere](https://avallecam.github.io/epihelper/)  -->
 
 --------------------------------------
