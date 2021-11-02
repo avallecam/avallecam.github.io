@@ -288,14 +288,14 @@ scholar::get_publications(id) %>%
 
 🖐️ __[ES] Introduction to statistical analysis of epidemics, 2021__
 
-![](figure/front-workshop-outbreak.PNG){ width=100% }
+![](figure/front-workshop-outbreak-3.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/cursoepidemias-analisisbrote 
 - ⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html
 
 🖐️ __[ES] Introduction to R and Rstudio, 2021__
 
-![](figure/front-workshop-intror.PNG){ width=100% }
+![](figure/front-workshop-intror-4.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/cursoepidemia-intror 
 - ⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html
@@ -334,7 +334,7 @@ scholar::get_publications(id) %>%
 
 🖐️ __[ES] Reproducible Science and Microarray Analysis, 2017__
 
-![](figure/front-workshop-reprosci.PNG){ width=100% }
+![](figure/front-workshop-reprosci-6.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/reproscience-intro 
 - ⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html
