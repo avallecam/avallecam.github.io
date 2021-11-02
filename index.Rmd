@@ -370,4 +370,8 @@ scholar::get_publications(id) %>%
 - 💕 I intentionally used **cam** in reference to my [tusan](https://www.mychinaroots.com/surnames/detail?word=Campos) ancestry
 <!-- - 📦 It is also the name of my first R package, now hosted [elsewhere](https://avallecam.github.io/epihelper/)  -->
 
+<center>
+![](figure/avallecam-profile-20200101.png){ width=10% }
+</center>
+
 --------------------------------------
