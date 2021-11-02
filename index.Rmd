@@ -3,6 +3,8 @@ title: Hi there 👋
 output: 
   html_document:
     theme: simplex
+editor_options: 
+  chunk_output_type: console
 ---
 
 <style type="text/css">
@@ -168,6 +170,7 @@ https://avallecam.github.io/health_data_science_editorial/
 library(tidyverse)
 scholar::get_publications("p1Tq4esAAAAJ") %>% 
   as_tibble() %>% 
+  select(title:year) %>% 
   knitr::kable()
 ```
 
@@ -225,7 +228,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🔔 __[ES] R applied to epidemiology, 2019__
 
-![](figure/front-talk-epiapli-4.PNG){ width=100% }
+![](figure/front-epiapli.PNG){ width=100% }
 
 - 🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia 
 - 🍿 video: https://youtu.be/C3Yqw883jrs
