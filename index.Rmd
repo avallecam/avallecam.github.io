@@ -102,9 +102,9 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### skills
 
-- ⚙️ I am a proficient **`R` user**, expert data **wrangler** and **visualization** enthusiast. 
-- ☁️ I am fluid with using `bash` for **automation** and `shh` **remote** computing.
-- 📀 I have made analysis **workflows** with **omic**, serological, gps, health service and **spatio-temporal** data;
+- ⚙️ I am a proficient **`R` user**, expert `tidy` data **wrangler** and `ggplot2` **visualization** enthusiast. 
+- ☁️ I am fluid with `bash` for **automation**, `shh` for **remote** computing, and `shiny` for reactive **dashboards**.
+- 📀 I have made analysis **workflows** with omic, serological, gps, health service and **spatio-temporal** data;
 - 🥤 I have complemented my **training** with awesome communities: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/);
 
 #### contact
@@ -168,7 +168,8 @@ https://avallecam.github.io/health_data_science_editorial/
 
 ```{r,message=FALSE,warning=FALSE}
 library(tidyverse)
-scholar::get_publications("p1Tq4esAAAAJ") %>% 
+id <- "p1Tq4esAAAAJ"
+scholar::get_publications(id) %>% 
   as_tibble() %>% 
   select(title:year) %>% 
   knitr::kable()
@@ -228,7 +229,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🔔 __[ES] R applied to epidemiology, 2019__
 
-![](figure/front-epiapli.PNG){ width=100% }
+![](figure/front-talk-epiapli-5.PNG){ width=100% }
 
 - 🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia 
 - 🍿 video: https://youtu.be/C3Yqw883jrs
@@ -242,7 +243,7 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 📌 __[ES] Data analysis in epidemiological surveillance II: spatial analysis, 2021__
 
-<!--![](figure/front-lecture-spatial.PNG){ width=100% }-->
+![](figure/front-lecture-spatial-8.PNG){ width=100% }
 
 - 🍭 slides: http://bit.ly/episurv2021parte2 
 - ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2  
@@ -320,14 +321,14 @@ scholar::get_publications("p1Tq4esAAAAJ") %>%
 
 🖐️ __[ES] Inferential statistics in R, 2019__
 
-![](figure/front-talk-biostat-2.PNG){ width=100% }
+![](figure/front-workshop-biostat-6.PNG){ width=100% }
 
 - 🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html#1 
 - 🍲 repo: https://avallecam.github.io/biostat2019/ 
 
 🖐️ __[ES] Microarray analysis with Tidyverse and Bioconductor, 2019__
 
-![](figure/front-workflow-microarrays.PNG){ width=100% }
+![](figure/front-workshop-microarray-2.PNG){ width=100% }
 
 - 🍲 repo: https://github.com/avallecam/bioinfo2019 
 
