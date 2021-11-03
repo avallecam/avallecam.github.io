@@ -126,7 +126,7 @@ https://avallecam.github.io/health_data_science_editorial/
 
 #### publications
 
-- 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ&hl=es);
+- 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ);
 
 
 ```{r,message=FALSE,warning=FALSE}
