@@ -368,7 +368,7 @@ scholar::get_publications(id) %>%
 #### avallecam
 
 - 🌞 Stands for **a**ndree **valle** **cam**pos.
-- 💕 I intentionally used **cam** in reference to my [tusan](https://www.mychinaroots.com/surnames/detail?word=Campos) ancestry
+- 💕 I intentionally used [**cam**](https://www.mychinaroots.com/surnames/detail?word=Campos) because I am [#tusan](http://www.tusanaje.org/ser-tusan/)
 <!-- - 📦 It is also the name of my first R package, now hosted [elsewhere](https://avallecam.github.io/epihelper/)  -->
 
 <center>
