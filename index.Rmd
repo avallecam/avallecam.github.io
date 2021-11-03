@@ -43,11 +43,17 @@ knitr::opts_chunk$set(
 
 # `r emo::ji("peru")` **Andree Valle Campos** (él/he/his)
 
+# 🗂️ {.tabset .tabset-pills .tabset-fade}
+
+## home
+
+
 ![](figure/avallecam-profile-20211030.jpeg){ width=100% }
 
-## __I'm a geneticist skilled in health data science__
+### __I'm a geneticist skilled in health data science__
 
 --------------------------------------
+
 
 🏗️ 
 I take **data** problems to learn new **tools** in the route to solve them, **motivated** by causal questions and **reproducible** research.
@@ -72,17 +78,9 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 --------------------------------------
 
-# 🗂️ {.tabset}
+## vitae {.tabset}
 
-<!-- - [bio](./#bio) -->
-<!-- - [resources](./#resources) -->
-<!-- - [texts](./#texts) -->
-<!-- - [talks](./#talks) -->
-<!-- - [lectures](./#lectures) -->
-<!-- - [workshops](./#workshops) -->
-<!-- - [about me](./#about-me) -->
-
-## bio
+### bio
 
 #### now
 
@@ -116,7 +114,34 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 --------------------------------------
 
-## resources
+### works
+
+#### publications
+
+- 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ&hl=es);
+
+
+```{r,message=FALSE,warning=FALSE}
+library(tidyverse)
+id <- "p1Tq4esAAAAJ"
+scholar::get_publications(id) %>% 
+  as_tibble() %>% 
+  select(title:year) %>% 
+  knitr::kable()
+```
+
+#### writings
+
+- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
+https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
+
+- 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
+https://avallecam.github.io/health_data_science_editorial/
+
+
+--------------------------------------
+
+### resources
 
 #### R packages 📦
 
@@ -153,35 +178,11 @@ status: learning in progress!
 - 🌍 I have contributed **answers** for the [stackoverflow](https://stackoverflow.com/users/6702544/avallecam) community;
 - 💌 I collect helpful **links** for a lot of topics in a public [trello board](https://trello.com/b/xtO9VP36/scibites).
 
-#### writings
-
-- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
-https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
-
-- 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
-https://avallecam.github.io/health_data_science_editorial/
-
-#### publications
-
-- 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ&hl=es);
-
-
-```{r,message=FALSE,warning=FALSE}
-library(tidyverse)
-id <- "p1Tq4esAAAAJ"
-scholar::get_publications(id) %>% 
-  as_tibble() %>% 
-  select(title:year) %>% 
-  knitr::kable()
-```
-
-
-
 --------------------------------------
 
-## talks
-
 ### talks
+
+#### talks
 
 🔔 __serosurvey: Serological Surveys and Prevalence Estimation Under Misclassification, 2021__
 
@@ -237,9 +238,9 @@ scholar::get_publications(id) %>%
 
 --------------------------------------
 
-## lectures
-
 ### lectures
+
+#### lectures
 
 📌 __[ES] Data analysis in epidemiological surveillance II: spatial analysis, 2021__
 
@@ -282,9 +283,9 @@ scholar::get_publications(id) %>%
 
 --------------------------------------
 
-## workshops
-
 ### workshops
+
+#### workshops
 
 🖐️ __[ES] Introduction to statistical analysis of epidemics, 2021__
 
@@ -371,8 +372,16 @@ scholar::get_publications(id) %>%
 - 💕 I intentionally used [**cam**](https://www.mychinaroots.com/surnames/detail?word=Campos) because I am [#tusan](http://www.tusanaje.org/ser-tusan/)
 <!-- - 📦 It is also the name of my first R package, now hosted [elsewhere](https://avallecam.github.io/epihelper/)  -->
 
+--------------------------------------
+
+# {-}
+
 <center>
 ![](figure/avallecam-profile-20200101.png){ width=10% }
 </center>
+<center>
+`r knitr::asis_output("\U1F12F")` Andree Valle-Campos, 2021
 
---------------------------------------
+<!-- © -->
+
+</center>
