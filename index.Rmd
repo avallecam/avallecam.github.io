@@ -78,7 +78,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 --------------------------------------
 
-## vitae {.tabset}
+## vitae {.tabset .tabset-fade}
 
 ### bio
 
