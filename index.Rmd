@@ -185,7 +185,7 @@ scholar::get_publications(id) %>%
 
 🔔 __serosurvey: Serological Surveys and Prevalence Estimation Under Misclassification, 2021__
 
-![](figure/front-serosurvey.PNG){ width=100% }
+![](figure/front-talk-serosurvey-5.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/serosurvey-user21 
 - 🍿 video: https://youtu.be/0mugb1mE68g
@@ -197,7 +197,7 @@ scholar::get_publications(id) %>%
 
 🔔 __[ES] Analysis of #multiple epidemics and prevalences with R and purrr, 2020__
 
-![](figure/front-talk-purrr-4.PNG){ width=100% }
+![](figure/front-talk-purrr-8.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/bbslisepi 
 - 🍿 video: https://youtu.be/mxX8tDmC45E
@@ -295,16 +295,17 @@ scholar::get_publications(id) %>%
 
 🖐️ __[ES] Introduction to R and Rstudio, 2021__
 
-![](figure/front-workshop-intror-4.PNG){ width=100% }
+![](figure/front-workshop-intror-9.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/cursoepidemia-intror 
 - ⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html
 
 🖐️ __[ES] Introduction to ggplot2, 2021__
 
-![](figure/front-workshop-ggplot-2.PNG){ width=100% }
+![](figure/front-workshop-ggplot-11.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/r08ggplot2 
+- 🍿 video: https://youtu.be/waE31-OG8Ho
 - 🍲 repo: https://github.com/avallecam/workshop_ggplot2 
 
 🖐️ __[ES] Introduction to the use of R projects, 2021__
