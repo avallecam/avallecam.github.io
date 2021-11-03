@@ -86,7 +86,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### now
 
-- 💻 Freelancer, remote teacher, and research intern in BCN; 
+- 💻 Freelancer, remote teacher, doing a research internship; 
 - ✒️ Writing my thesis manuscripts and grad school applications!
 - ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
 - ⭐ Coordinator in a last [outbreak analysis course](https://mobile.twitter.com/cdc_peru/status/1392099144689401857) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
@@ -137,7 +137,7 @@ status: learning in progress!
 
 - 💾 disease surveillance: https://avallecam.github.io/shiny-server/per/index.html
 - 💾 data exploration: https://avallecam.shinyapps.io/data_qc/ 
-  - [ES] translation: https://avallecam.shinyapps.io/data_qc-es/
+- [ES] translation: https://avallecam.shinyapps.io/data_qc-es/
 
 #### templates
 
