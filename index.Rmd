@@ -41,9 +41,9 @@ knitr::opts_chunk$set(
 )
 ```
 
-# `r emo::ji("peru")` **Andree Valle Campos** (él/he/his)
+# `r emo::ji("peru")` **Andree Valle Campos** (él/he/his) {.tabset .tabset-pills .tabset-fade}
 
-# 🗂️ {.tabset .tabset-pills .tabset-fade}
+<!-- 🗂️  -->
 
 ## home
 
@@ -380,8 +380,5 @@ status: learning in progress!
 ![](figure/avallecam-profile-20200101.png){ width=10% }
 </center>
 <center>
-`r knitr::asis_output("\U1F12F")` Andree Valle-Campos, 2021
-
-<!-- © -->
-
+© `r knitr::asis_output("\U1F12F")` Andree Valle-Campos, 2021
 </center>
