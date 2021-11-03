@@ -135,9 +135,9 @@ status: learning in progress!
 
 #### dashboards
 
-- 💾 data exploration: https://avallecam.shinyapps.io/data_qc/ 
-- 💾 [ES] data exploration: https://avallecam.shinyapps.io/data_qc-es/
 - 💾 disease surveillance: https://avallecam.github.io/shiny-server/per/index.html
+- 💾 data exploration: https://avallecam.shinyapps.io/data_qc/ 
+  - [ES] translation: https://avallecam.shinyapps.io/data_qc-es/
 
 #### templates
 
