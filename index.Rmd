@@ -116,6 +116,14 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 ### works
 
+#### writings
+
+- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
+https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
+
+- 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
+https://avallecam.github.io/health_data_science_editorial/
+
 #### publications
 
 - 📚 I have my list of academic **publications** in ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) and [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ&hl=es);
@@ -129,15 +137,6 @@ scholar::get_publications(id) %>%
   select(title:year) %>% 
   knitr::kable()
 ```
-
-#### writings
-
-- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
-https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
-
-- 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
-https://avallecam.github.io/health_data_science_editorial/
-
 
 --------------------------------------
 
