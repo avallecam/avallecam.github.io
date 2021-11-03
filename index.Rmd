@@ -47,8 +47,9 @@ knitr::opts_chunk$set(
 
 ## home
 
-
-![](figure/avallecam-profile-20211030.jpeg){ width=100% }
+<center>
+![](figure/avallecam-profile-20211030.jpeg){ width=90% }
+</center>
 
 ### __I'm a geneticist skilled in health data science__
 
@@ -179,109 +180,6 @@ status: learning in progress!
 
 --------------------------------------
 
-### talks
-
-#### talks
-
-🔔 __serosurvey: Serological Surveys and Prevalence Estimation Under Misclassification, 2021__
-
-![](figure/front-talk-serosurvey-5.PNG){ width=100% }
-
-- 🍭 slides: https://bit.ly/serosurvey-user21 
-- 🍿 video: https://youtu.be/0mugb1mE68g
-- 🍲 repo: https://github.com/avallecam/serosurvey-user21 
-
-🔔 __[ES] Introduction to spatial analysis, 2021__
-
-- 🍭 slides: https://bit.ly/espacial2021 
-
-🔔 __[ES] Analysis of #multiple epidemics and prevalences with R and purrr, 2020__
-
-![](figure/front-talk-purrr-8.PNG){ width=100% }
-
-- 🍭 slides: https://bit.ly/bbslisepi 
-- 🍿 video: https://youtu.be/mxX8tDmC45E
-<!-- https://imtavh.cayetano.edu.pe/videos/innovacion-en-salud -->
-
-🔔 __[ES] Causal questions for hypothetical interventions, 2020__
-
-- 🍭 slides: https://bit.ly/casual_question 
-
-🔔 __[ES] Hypothesis testing with nonparametric statistical methods, 2020__
-
-- 🍭 slides: https://bit.ly/noparam2020 
-- 🍿 video: https://youtu.be/1MTt1Ro-OP4
-
-🔔 __[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru, 2019__
-
-- 💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg 
-- 🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/
-
-<!-- 🔔 __[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package, 2019__ -->
-
-<!-- - 💾 poster:   -->
-<!-- - 🍲 repo: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178 -->
-
-🔔 __Human mobility and malaria history in a periurban community of the Peruvian Amazon, 2019__
-
-- 💾 poster: https://raw.githubusercontent.com/avallecam/movmal/master/poster/astmh_poster-ValleAA-20191116.jpg 
-- 🍲 repo: https://github.com/avallecam/movmal
-
-🔔 __[ES] R applied to epidemiology, 2019__
-
-![](figure/front-talk-epiapli-5.PNG){ width=100% }
-
-- 🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia 
-- 🍿 video: https://youtu.be/C3Yqw883jrs
-- 🍲 repo: https://avallecam.github.io/epiapli2019/ 
-
---------------------------------------
-
-### lectures
-
-#### lectures
-
-📌 __[ES] Data analysis in epidemiological surveillance II: spatial analysis, 2021__
-
-![](figure/front-lecture-spatial-8.PNG){ width=100% }
-
-- 🍭 slides: http://bit.ly/episurv2021parte2 
-- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2  
-
-📌 __[ES] Data analysis in epidemiological surveillance I: time, space, person and epidemic curve, 2021__
-
-- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1 
-- ⚒️ extra: endemic channel https://rpubs.com/avallecam/episurv2021 
-
-📌 __[ES] Visualizing public health and field epidemiology data, 2021__
-
-![](figure/front-lecture-dashboards-2.PNG){ width=100% }
-
-- 🍭 slides: https://bit.ly/epiviz2021 
-
-📌 __[ES] Algorithms for the detection of aberrations in epidemiological surveillance, 2020__
-
-<!--![](figure/front-lecture-surveillance.PNG){ width=100% }-->
-
-- 🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html#1
-- 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd
-
-📌 __[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer, 2016__
-
-![](figure/front-lecture-tardigate-3.PNG){ width=100% }
-
-- 🍭 slides: https://bit.ly/tardigate2016 
-
-📌 __[ES] Gene regulatory networks using graph theory and finite automatas, 2015-2017__
-
-![](figure/front-lecture-grn-3.PNG){ width=100% }
-
-- 🍭 slides: https://bit.ly/biomath2017_ 
-- ⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb
-- 🍲 repo: https://github.com/avallecam/gene_regulatory_networks
-
---------------------------------------
-
 ### workshops
 
 #### workshops
@@ -340,6 +238,109 @@ status: learning in progress!
 - 🍭 slides: https://bit.ly/reproscience-intro 
 - ⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html
 - 🍲 repo: https://avallecam.github.io/bioinfo2017/ 
+
+--------------------------------------
+
+### lectures
+
+#### lectures
+
+📌 __[ES] Data analysis in epidemiological surveillance II: spatial analysis, 2021__
+
+![](figure/front-lecture-spatial-8.PNG){ width=100% }
+
+- 🍭 slides: http://bit.ly/episurv2021parte2 
+- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2  
+
+📌 __[ES] Data analysis in epidemiological surveillance I: time, space, person and epidemic curve, 2021__
+
+- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1 
+- ⚒️ extra: endemic channel https://rpubs.com/avallecam/episurv2021 
+
+📌 __[ES] Visualizing public health and field epidemiology data, 2021__
+
+![](figure/front-lecture-dashboards-2.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/epiviz2021 
+
+📌 __[ES] Algorithms for the detection of aberrations in epidemiological surveillance, 2020__
+
+<!--![](figure/front-lecture-surveillance.PNG){ width=100% }-->
+
+- 🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html#1
+- 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd
+
+📌 __[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer, 2016__
+
+![](figure/front-lecture-tardigate-3.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/tardigate2016 
+
+📌 __[ES] Gene regulatory networks using graph theory and finite automatas, 2015-2017__
+
+![](figure/front-lecture-grn-3.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/biomath2017_ 
+- ⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb
+- 🍲 repo: https://github.com/avallecam/gene_regulatory_networks
+
+--------------------------------------
+
+### talks
+
+#### talks
+
+🔔 __serosurvey: Serological Surveys and Prevalence Estimation Under Misclassification, 2021__
+
+![](figure/front-talk-serosurvey-5.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/serosurvey-user21 
+- 🍿 video: https://youtu.be/0mugb1mE68g
+- 🍲 repo: https://github.com/avallecam/serosurvey-user21 
+
+🔔 __[ES] Introduction to spatial analysis, 2021__
+
+- 🍭 slides: https://bit.ly/espacial2021 
+
+🔔 __[ES] Analysis of #multiple epidemics and prevalences with R and purrr, 2020__
+
+![](figure/front-talk-purrr-8.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/bbslisepi 
+- 🍿 video: https://youtu.be/mxX8tDmC45E
+<!-- https://imtavh.cayetano.edu.pe/videos/innovacion-en-salud -->
+
+🔔 __[ES] Causal questions for hypothetical interventions, 2020__
+
+- 🍭 slides: https://bit.ly/casual_question 
+
+🔔 __[ES] Hypothesis testing with nonparametric statistical methods, 2020__
+
+- 🍭 slides: https://bit.ly/noparam2020 
+- 🍿 video: https://youtu.be/1MTt1Ro-OP4
+
+🔔 __[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru, 2019__
+
+- 💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg 
+- 🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/
+
+<!-- 🔔 __[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package, 2019__ -->
+
+<!-- - 💾 poster:   -->
+<!-- - 🍲 repo: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178 -->
+
+🔔 __Human mobility and malaria history in a periurban community of the Peruvian Amazon, 2019__
+
+- 💾 poster: https://raw.githubusercontent.com/avallecam/movmal/master/poster/astmh_poster-ValleAA-20191116.jpg 
+- 🍲 repo: https://github.com/avallecam/movmal
+
+🔔 __[ES] R applied to epidemiology, 2019__
+
+![](figure/front-talk-epiapli-5.PNG){ width=100% }
+
+- 🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia 
+- 🍿 video: https://youtu.be/C3Yqw883jrs
+- 🍲 repo: https://avallecam.github.io/epiapli2019/ 
 
 --------------------------------------
 
