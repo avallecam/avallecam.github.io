@@ -41,7 +41,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# `r emo::ji("peru")` **Andree Valle-Campos** (él/he/his)
+# `r emo::ji("peru")` **Andree Valle Campos** (él/he/his)
 
 ![](figure/avallecam-profile-20211030.jpeg){ width=100% }
 
@@ -104,7 +104,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 - ⚙️ I am a proficient **`R` user**, expert `tidy` data **wrangler** and `ggplot2` **visualization** enthusiast. 
 - ☁️ I am fluid with `bash` for **automation**, `shh` for **remote** computing, and `shiny` for reactive **dashboards**.
-- 📀 I have made analysis **workflows** with omic, serological, gps, health service and **spatio-temporal** data;
+- 📀 I have made **modeling workflows** with omic, serological, gps, health service, and outbreak **spatio-temporal** data;
 - 🥤 I have complemented my **training** with awesome communities: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/);
 
 #### contact
