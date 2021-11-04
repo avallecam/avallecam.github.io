@@ -41,7 +41,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# `r emo::ji("peru")` **Andree Valle Campos** (él/he/his) {.tabset .tabset-pills .tabset-fade}
+# I'm **Andree Valle Campos** (él/he/his) {.tabset .tabset-pills .tabset-fade}
 
 <!-- 🗂️  -->
 
@@ -51,7 +51,7 @@ knitr::opts_chunk$set(
 ![](figure/avallecam-profile-20211030.jpeg){ width=90% }
 </center>
 
-### __I'm a geneticist skilled in health data science__
+### __I'm a `r emo::ji("peru")` researcher trained in genetics and skilled in health data science__
 
 --------------------------------------
 
@@ -93,7 +93,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### bio
 
-- 🏠 I am a computationally-oriented **geneticist** formally trained in quantitative **epidemiological research**;
+- 🏠 I am a *computationally-oriented* researcher trained in **genetics + biotechnology** and quantitative **epidemiological research**;
 <!-- - 📜 I did my [MSc](https://github.com/avallecam/movmal) at the **Universidad Peruana Cayetano Heredia** (2018); -->
 - 📜 I did my [MSc](https://github.com/avallecam/movmal) research about human mobility and malaria history in the peruvian amazon (**UPCH, 2018**);
 <!-- - 📜 I did my [BSc](https://github.com/avallecam/abnomic) at the **Universidad Nacional Mayor de San Marcos** (2015); -->
