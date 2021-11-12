@@ -109,7 +109,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 #### contact
 
 - 💬 Ping me about **applied biostatistics**, **data science education**, and **reproducible research**;
-- 📫 Reach me: [avallecam@gmail.com](avallecam@gmail.com);
+- 📫 Reach me: avallecam at gmail;
 - 🐤 Tweet me: [`@avallecam`](https://twitter.com/avallecam).
 
 
