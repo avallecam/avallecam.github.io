@@ -343,6 +343,10 @@ status: learning in progress!
 - 🍿 video: https://youtu.be/C3Yqw883jrs
 - 🍲 repo: https://avallecam.github.io/epiapli2019/ 
 
+🔔 __[ES] cdcper: data report and visualization in CDC Peru using R, 2019__
+
+- 🍭 slides: https://speakerdeck.com/avallecam/cdcper-reporte-y-visualizacion-de-datos-en-cdc-peru-usando-r
+
 --------------------------------------
 
 ## about
