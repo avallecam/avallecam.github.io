@@ -385,8 +385,7 @@ status: learning in progress!
 ![](figure/avallecam-profile-20200101.png){ width=10% }
 </center>
 <center>
-⊜ `r knitr::asis_output("\U1F12F")` `r knitr::asis_output("\U1F16D")` `r knitr::asis_output("\U1F16F")` `r knitr::asis_output("\U1F10E")` 
+⊜ Andree Valle-Campos, 2021
 </center>
-<center>
-Andree Valle-Campos, 2021
-</center>
+
+<!-- `r knitr::asis_output("\U1F12F")` -->
