@@ -58,6 +58,7 @@ knitr::opts_chunk$set(
 
 🏗️ 
 I take **data** problems to learn new **tools** in the route to solve them, **motivated** by causal questions and **reproducible** research.
+<!-- and satisfy my own expectations! -->
 <!-- create -->
 <!-- reproducible workflows and FAIR principles, reusable software -->
 <!-- discussing their interpretation and implications. -->
@@ -85,8 +86,8 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### now
 
-- 💻 Freelancer, remote teacher, doing a research internship; 
-- ✒️ Writing my thesis manuscripts and grad school applications!
+- 💻 Freelancer and remote teacher; 
+- ✒️ Writing my thesis manuscripts!
 - ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
 - ⭐ Coordinator in a last [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 <!-- https://www.cursoepidemias-col-peru-2021.org/ -->
@@ -109,7 +110,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### contact
 
-- 💬 Ping me about **applied biostatistics**, **data science education**, and **reproducible research**;
+- 💬 Ping [me](https://www.linkedin.com/in/avallecam/) about **applied biostatistics**, **data science education**, and **reproducible research**;
 - 📫 Reach me: avallecam at gmail;
 - 🐤 Tweet me: [`@avallecam`](https://twitter.com/avallecam).
 
@@ -357,7 +358,8 @@ status: learning in progress!
 - 🏊 I was a [swimmer (lane #5)](https://www.youtube.com/watch?v=fN7sJPFeJcw);
 - 🎬 I love watching [musical videos](https://youtube.com/playlist?list=PLDHw5KzS-qvL90chbF74RS3fAU5JdtVzZ);
 - `r emo::ji("peru")` I have a playlist of [peruvian music](https://youtube.com/playlist?list=PLDHw5KzS-qvKv1z5CBELuQnqanqfZ4WSy);
-- 🗃️ I store [memories](https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists) in a couple more;
+- 🗃️ 
+I store [artmospheres](https://www.instagram.com/avallecam_/) and [memories](https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists) in a couple more;
 - 🎼 I occasionally play guitar🎸|piano🎹;
 - 🖤 I read a manga called [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
 - 🌠 I feed a wishlist in [elfster](https://www.elfster.com/profile/097d261f-1196-45a1-a4b4-12e0b245ce2d/wish-lists/be4efeaf-b9e7-465d-bcac-65ef129be519/);
