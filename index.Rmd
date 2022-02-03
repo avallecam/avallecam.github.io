@@ -218,12 +218,22 @@ status: learning in progress!
 
 🖐️ __[ES] Epidemiological analysis in R, 2019__
 
+![](figure/front-workshop-epistat-11.PNG){ width=100% }
+
 - 🍭 slides: https://avallecam.github.io/epistat2019/r02.html#1 
+- 🍲 repo: https://avallecam.github.io/epistat2019/ 
+
+🖐️
+__[ES] Linear models in R, 2019__
+
+![](figure/front-workshop-biostat-6.PNG){ width=100% }
+
+- 🍭 slides: https://avallecam.github.io/epistat2019/r01.html#1
 - 🍲 repo: https://avallecam.github.io/epistat2019/ 
 
 🖐️ __[ES] Inferential statistics in R, 2019__
 
-![](figure/front-workshop-biostat-6.PNG){ width=100% }
+![](figure/front-workshop-biostats-31.PNG){ width=100% }
 
 - 🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html#1 
 - 🍲 repo: https://avallecam.github.io/biostat2019/ 
@@ -268,7 +278,7 @@ status: learning in progress!
 
 📌 __[ES] Algorithms for the detection of aberrations in epidemiological surveillance, 2020__
 
-<!--![](figure/front-lecture-surveillance.PNG){ width=100% }-->
+![](figure/front-lecture-epichannel-41.png){ width=100% }
 
 - 🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html#1
 - 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd
@@ -315,9 +325,13 @@ status: learning in progress!
 
 🔔 __[ES] Causal questions for hypothetical interventions, 2020__
 
+![](figure/front-talk-causal-51.png){ width=100% }
+
 - 🍭 slides: https://bit.ly/casual_question 
 
 🔔 __[ES] Hypothesis testing with nonparametric statistical methods, 2020__
+
+![](figure/front-talk-noparam-31.PNG){ width=100% }
 
 - 🍭 slides: https://bit.ly/noparam2020 
 - 🍿 video: https://youtu.be/1MTt1Ro-OP4
@@ -347,6 +361,8 @@ status: learning in progress!
 
 🔔 __[ES] cdcper: data report and visualization in CDC Peru using R, 2019__
 
+![](figure/front-talk-cdcper-10.PNG){ width=100% }
+
 - 🍭 slides: https://speakerdeck.com/avallecam/cdcper-reporte-y-visualizacion-de-datos-en-cdc-peru-usando-r
 
 --------------------------------------
@@ -359,7 +375,7 @@ status: learning in progress!
 - 🎬 I love watching [musical videos](https://youtube.com/playlist?list=PLDHw5KzS-qvL90chbF74RS3fAU5JdtVzZ);
 - `r emo::ji("peru")` I have a playlist of [peruvian music](https://youtube.com/playlist?list=PLDHw5KzS-qvKv1z5CBELuQnqanqfZ4WSy);
 - 🗃️ 
-I store [artmospheres](https://www.instagram.com/avallecam_/) and [memories](https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists) in a couple more;
+I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
 - 🎼 I occasionally play guitar🎸|piano🎹;
 - 🖤 I read a manga called [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
 - 🌠 I feed a wishlist in [elfster](https://www.elfster.com/profile/097d261f-1196-45a1-a4b4-12e0b245ce2d/wish-lists/be4efeaf-b9e7-465d-bcac-65ef129be519/);
