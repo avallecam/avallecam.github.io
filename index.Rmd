@@ -265,7 +265,9 @@ __[ES] Linear models in R, 2019__
 - 🍭 slides: http://bit.ly/episurv2021parte2 
 - ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2  
 
-📌 __[ES] Data analysis in epidemiological surveillance I: time, space, person and epidemic curve, 2021__
+📌 __[ES] Data analysis in epidemiological surveillance I: person, place, time and epidemic curve, 2021__
+
+![](figure/front-lecture-personplacetime.PNG){ width=100% }
 
 - ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1 
 - ⚒️ extra: endemic channel https://rpubs.com/avallecam/episurv2021 
