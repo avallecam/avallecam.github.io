@@ -406,7 +406,9 @@ I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]
 ![](figure/avallecam-profile-20200101.png){ width=10% }
 </center>
 <center>
-⊜ Andree Valle-Campos, 2021
+![](figure/zeze.png){ width=3% }
+Andree Valle-Campos, 2021
 </center>
 
 <!-- `r knitr::asis_output("\U1F12F")` -->
+<!-- ⊜  -->
