@@ -86,6 +86,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### now
 
+- 🎉 R Developer and Instructor at [The Graph Network](https://thegraphcourses.org/members/avallecam/)
 - 💻 Freelancer and remote teacher; 
 - ✒️ Writing my thesis manuscripts!
 - ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
