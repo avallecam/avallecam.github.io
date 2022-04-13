@@ -318,6 +318,8 @@ __[ES] Linear models in R, 2019__
 
 🔔 __[ES] Introduction to spatial analysis, 2021__
 
+![](figure/spatial-peru-01.PNG){ width=100% }
+
 - 🍭 slides: https://bit.ly/espacial2021 
 
 🔔 __[ES] Analysis of #multiple epidemics and prevalences with R and purrr, 2020__
@@ -343,15 +345,25 @@ __[ES] Linear models in R, 2019__
 
 🔔 __[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru, 2019__
 
+<center>
+![](figure/poster-sgb-01.PNG){ width=30% }
+</center>
+
 - 💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg 
 - 🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/
 
-<!-- 🔔 __[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package, 2019__ -->
+🔔 __[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package, 2019__
 
-<!-- - 💾 poster:   -->
-<!-- - 🍲 repo: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178 -->
+![](figure/cdcperu-temporal_change-01.PNG){ width=100% }
+
+<!-- - 💾 poster: -->
+- 🍲 abstract: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178
 
 🔔 __Human mobility and malaria history in a periurban community of the Peruvian Amazon, 2019__
+
+<center>
+![](figure/poster-malaria-01.PNG){ width=50% }
+</center>
 
 - 💾 poster: https://raw.githubusercontent.com/avallecam/movmal/master/poster/astmh_poster-ValleAA-20191116.jpg 
 - 🍲 repo: https://github.com/avallecam/movmal
