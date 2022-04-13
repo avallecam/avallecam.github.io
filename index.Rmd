@@ -86,9 +86,9 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 #### now
 
-- 🎉 R Developer and Instructor at [The Graph Network](https://thegraphcourses.org/members/avallecam/)
+- 🎉 `R` Developer and Instructor at [The GRAPH Network](https://www.linkedin.com/company/the-graph-network/);
 - 💻 Freelancer and remote teacher; 
-- ✒️ Writing my thesis manuscripts!
+<!-- - ✒️ Writing my thesis manuscripts! -->
 - ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
 - ⭐ Coordinator in a last [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 <!-- https://www.cursoepidemias-col-peru-2021.org/ -->
