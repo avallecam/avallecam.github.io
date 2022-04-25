@@ -134,8 +134,13 @@ https://avallecam.github.io/health_data_science_editorial/
 
 
 ```{r,message=FALSE,warning=FALSE}
-library(tidyverse)
+if(!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse)
+pacman::p_load(scholar)
+pacman::p_load(knitr)
+
 id <- "p1Tq4esAAAAJ"
+
 scholar::get_publications(id) %>% 
   as_tibble() %>% 
   select(title:year) %>% 
