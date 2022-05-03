@@ -41,7 +41,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# I'm **Andree Valle Campos** (él/he/his) {.tabset .tabset-fade}
+# I'm **Andree Valle Campos** and my pronouns are **él/he/his** {.tabset .tabset-fade}
 
 ## english {.tabset .tabset-pills .tabset-fade}
 
