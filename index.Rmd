@@ -394,8 +394,8 @@ __[ES] Linear models in R, 2019__
 ### about me
 
 - 🏊 I was a [swimmer (lane #5)](https://www.youtube.com/watch?v=fN7sJPFeJcw);
-- 🎬 I love watching [musical videos](https://youtube.com/playlist?list=PLDHw5KzS-qvL90chbF74RS3fAU5JdtVzZ);
-- `r emo::ji("peru")` I have a playlist of [peruvian music](https://youtube.com/playlist?list=PLDHw5KzS-qvKv1z5CBELuQnqanqfZ4WSy);
+- 🎬 I love watching [musical videos]( https://bit.ly/avc-musicamundial);
+- `r emo::ji("peru")` I have a playlist of [peruvian music](https://bit.ly/avc-musicaperuana);
 - 🗃️ 
 I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
 - 🎼 I occasionally [play](https://soundcloud.com/avallecam) guitar🎸|piano🎹;
