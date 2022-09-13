@@ -41,6 +41,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+```{r,echo=FALSE}
+if(!require(pacman)) install.packages("pacman")
+pacman::p_load_gh('hadley/emo')
+pacman::p_load(tidyverse,
+               scholar,
+               knitr)
+```
+
+
 # I'm **Andree Valle Campos** and my pronouns are **él/he/his** {.tabset .tabset-fade}
 
 ## english {.tabset .tabset-pills .tabset-fade}
@@ -135,9 +144,9 @@ https://avallecam.github.io/health_data_science_editorial/
 
 ```{r,message=FALSE,warning=FALSE}
 if(!require("pacman")) install.packages("pacman")
-pacman::p_load(tidyverse)
-pacman::p_load(scholar)
-pacman::p_load(knitr)
+pacman::p_load(tidyverse,
+               scholar,
+               knitr)
 
 id <- "p1Tq4esAAAAJ"
 
@@ -408,6 +417,7 @@ I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]
 <!-- philosophy old books like -->
 - 🌩️ I enjoy reading dialectical materialism: [politzer](https://libgen.rs/book/index.php?md5=BDA5E8E26C125758A4C809D3C74F2136), [fromm](https://libgen.rs/book/index.php?md5=2B4A32A41996AEFB7D810F90A67EAEE2), [engels](https://libgen.rs/book/index.php?md5=64BA70A56CE5241A442C2056B3766995);
 - 🎲 I like listening to [radiohead](https://youtu.be/I4pezRt9boY), [apparat](https://youtu.be/NOol5V4Tlk8), [niños sin](https://youtu.be/S5vKPHigWqY) [smartphones](https://youtu.be/QI9mksVqivg);
+- 🔮 I also like listening to [DOMΔ](https://youtu.be/9nNOWTDvvzk) and [peruvian avant trap](https://youtube.com/playlist?list=PLDHw5KzS-qvJfGR6wuhU-z5XITknspxel)!
 - 🍥 I am [learning](https://www.a11yproject.com/) to design [accessible](https://user2021.r-project.org/participation/accessibility/) outputs.
 <!-- > #a11y - nothing about us without us -->
 <!-- - I am interested in discussing about how to provide local solutions against local [inequalities](https://unsdg.un.org/2030-agenda/universal-values/leave-no-one-behind) in society -->
@@ -426,7 +436,7 @@ I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]
 ![](figure/avallecam-profile-20211030.jpeg){ width=90% }
 </center>
 
-#### __Soy un `r emo::ji("peru")` investigador formado en genética y con conocimientos en ciencia de datos en salud__
+#### __Soy un investigador `r emo::ji("peru")` formado en genética y con experiencia en ciencia de datos en salud__
 
 --------------------------------------
 
@@ -511,9 +521,9 @@ https://avallecam.github.io/health_data_science_editorial/
 
 ```{r,message=FALSE,warning=FALSE}
 if(!require("pacman")) install.packages("pacman")
-pacman::p_load(tidyverse)
-pacman::p_load(scholar)
-pacman::p_load(knitr)
+pacman::p_load(tidyverse,
+               scholar,
+               knitr)
 
 id <- "p1Tq4esAAAAJ"
 
@@ -784,6 +794,7 @@ Guardo [artmósferas](https://www.instagram.com/avallecam_/) en un par [más]((h
 <!-- libros antiguos de filosofía como -->
 - 🌩️ Me gusta leer el materialismo dialéctico: [politzer](https://libgen.rs/book/index.php?md5=BDA5E8E26C125758A4C809D3C74F2136), [fromm](https://libgen.rs/book/index.php?md5=2B4A32A41996AEFB7D810F90A67EAEE2), [engels](https://libgen.rs/book/index.php?md5=64BA70A56CE5241A442C2056B3766995);
 - 🎲 Me gusta escuchar [radiohead](https://youtu.be/I4pezRt9boY), [apparat](https://youtu.be/NOol5V4Tlk8), [niños sin](https://youtu.be/S5vKPHigWqY) [smartphones](https://youtu.be/QI9mksVqivg);
+- 🔮 También me gusta escuchar a [DOMΔ](https://youtu.be/9nNOWTDvvzk) y [avant trap peruano](https://youtube.com/playlist?list=PLDHw5KzS-qvJfGR6wuhU-z5XITknspxel)!
 - 🍥 Estoy [aprendiendo](https://www.a11yproject.com/) a diseñar salidas [accesibles](https://user2021.r-project.org/participation/accessibility/).
 <!-- > #a11y - nada sobre nosotros sin nosotros -->
 <!-- - Me interesa discutir sobre cómo aportar soluciones locales contra las [desigualdades](https://unsdg.un.org/2030-agenda/universal-values/leave-no-one-behind) locales en la sociedad -->
@@ -804,7 +815,7 @@ Guardo [artmósferas](https://www.instagram.com/avallecam_/) en un par [más]((h
 </center>
 <center>
 ![](figure/zeze.png){ width=3% }
-Andree Valle-Campos, 2021
+Andree Valle-Campos, `r format(Sys.time(), '%Y%m%d')`
 </center>
 
 <!-- `r knitr::asis_output("\U1F12F")` -->
