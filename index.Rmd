@@ -153,7 +153,7 @@ id <- "p1Tq4esAAAAJ"
 scholar::get_publications(id) %>% 
   as_tibble() %>% 
   select(title:year) %>% 
-  arrange(desc(year)) %>% 
+  arrange(desc(year),desc(cites)) %>% 
   knitr::kable()
 ```
 
@@ -530,7 +530,7 @@ id <- "p1Tq4esAAAAJ"
 scholar::get_publications(id) %>% 
   as_tibble() %>% 
   select(title:year) %>% 
-  arrange(desc( year)) %>% 
+  arrange(desc(year),desc(cites)) %>% 
   knitr::kable()
 ```
 
