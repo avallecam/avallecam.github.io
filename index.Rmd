@@ -159,6 +159,10 @@ scholar::get_publications(id) %>%
   knitr::kable()
 ```
 
+##### blog
+
+- [20220919](20220919-blog-test.html)
+
 --------------------------------------
 
 #### resources
