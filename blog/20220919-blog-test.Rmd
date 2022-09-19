@@ -1,5 +1,5 @@
 ---
-title: ✨ test
+title: ✨ blog
 output: 
   html_document:
     theme: simplex
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# ... {.tabset .tabset-fade}
+# title {.tabset .tabset-fade}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis mollis mauris, vel elementum enim. Donec eget ex augue. Ut iaculis vestibulum malesuada. Sed bibendum tortor vehicula, pulvinar elit at, egestas velit. Duis vitae lectus erat. Integer sodales ante a diam rhoncus lobortis. In viverra lacinia odio, eu pharetra tortor dapibus eget. Aliquam sagittis mattis arcu, a aliquam metus tempus id. Donec maximus placerat magna at ultrices. Nullam ac sapien finibus neque molestie aliquet eget vel risus. Nunc orci ipsum, semper ac fringilla non, convallis quis sem. Nunc luctus odio sed egestas ultrices.
 
