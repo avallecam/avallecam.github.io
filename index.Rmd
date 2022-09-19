@@ -143,7 +143,9 @@ https://avallecam.github.io/health_data_science_editorial/
 
 
 ```{r,message=FALSE,warning=FALSE}
-if(!require("pacman")) install.packages("pacman")
+if(!require("pacman")) 
+  install.packages("pacman")
+
 pacman::p_load(tidyverse,
                scholar,
                knitr)
@@ -520,7 +522,9 @@ https://avallecam.github.io/health_data_science_editorial/
 
 
 ```{r,message=FALSE,warning=FALSE}
-if(!require("pacman")) install.packages("pacman")
+if(!require("pacman")) 
+  install.packages("pacman")
+
 pacman::p_load(tidyverse,
                scholar,
                knitr)
@@ -787,7 +791,7 @@ Guardo [artmósferas](https://www.instagram.com/avallecam_/) en un par [más]((h
 - 🎼 De vez en cuando [toco](https://soundcloud.com/avallecam) la guitarra🎸|piano🎹;
 - 🖤 Leo un manga llamado [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
 - 🌠 Alimento una lista de deseos en [elfster](https://www.elfster.com/profile/097d261f-1196-45a1-a4b4-12e0b245ce2d/wish-lists/be4efeaf-b9e7-465d-bcac-65ef129be519/);
-- 🎨 Aprecio visitar [galerías de arte](https://coleccion.mali.pe/collections), [hallazgos inesperados](https://maclima.pe/project/visitante-fernando-de-szyszlo/) [ocurrir](https://www.metmuseum.org/es/art/collection/search/267838);
+- 🎨 Aprecio visitar [galerías de arte](https://coleccion.mali.pe/collections), [hallazgos inesperados](https://maclima.pe/project/visitante-fernando-de-szyszlo/) [ocurren](https://www.metmuseum.org/es/art/collection/search/267838);
 - 🥦 
 Curioso por la biología física por: [goodwin](https://libgen.rs/book/index.php?md5=CBFF641AD61645A284EE4566EB2B0146), [bejan](https://libgen.rs/book/index.php?md5=F9D8AF5DCDF3C74ED2C34A56C7522E22), [leibler](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.041014);
 <!-- [cabrera](https://www.researchgate.net/publication/313988377_ON_NATURAL_STRUCTURES_THE_UNIFICATION_OF_NATURE) -->
