@@ -1,0 +1,81 @@
+---
+title: ✨ test
+output: 
+  html_document:
+    theme: simplex
+    # css: "thistimewithstyle.css"
+editor_options: 
+  chunk_output_type: console
+---
+
+<style type="text/css">
+
+.main-container {
+  max-width: 540px;
+}
+
+body {
+    font-family: "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #222;
+    font-weight: 400;
+}
+
+
+p {
+  margin-bottom: 16px;
+  }
+  
+ul, ol, table, pre, dl {
+    margin: 0 0 20px;
+}
+
+</style>
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# ... {.tabset .tabset-fade}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis mollis mauris, vel elementum enim. Donec eget ex augue. Ut iaculis vestibulum malesuada. Sed bibendum tortor vehicula, pulvinar elit at, egestas velit. Duis vitae lectus erat. Integer sodales ante a diam rhoncus lobortis. In viverra lacinia odio, eu pharetra tortor dapibus eget. Aliquam sagittis mattis arcu, a aliquam metus tempus id. Donec maximus placerat magna at ultrices. Nullam ac sapien finibus neque molestie aliquet eget vel risus. Nunc orci ipsum, semper ac fringilla non, convallis quis sem. Nunc luctus odio sed egestas ultrices.
+
+## english
+
+### subtitle
+
+Fusce sapien ipsum, facilisis sed sollicitudin ac, bibendum id nibh. In non ultrices diam, mollis condimentum mi. Donec pharetra euismod massa ut volutpat. Proin ultrices sit amet arcu nec commodo. Aliquam leo nunc, porttitor non est sit amet, porttitor semper orci. Aenean non nunc sagittis, lacinia velit nec, pretium ante. Sed sem mi, lacinia at aliquam nec, dapibus nec enim. Proin arcu mi, varius non tortor dignissim, porttitor commodo ex. Mauris eleifend dui quis velit imperdiet iaculis. Aliquam a turpis condimentum, sodales arcu ac, placerat nibh.
+
+### subtitle
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam auctor aliquam nulla, nec eleifend dolor cursus in. Nunc blandit, odio non tempor blandit, mi velit faucibus magna, eu pharetra leo arcu sit amet dolor. Morbi fringilla molestie justo, in mollis enim bibendum vitae. Quisque lacinia, augue eu dictum dapibus, velit turpis facilisis lectus, in rutrum mauris sapien eu ante. Sed dapibus placerat interdum. Nunc malesuada efficitur lorem, vel vehicula eros. Aenean sem eros, aliquam id semper hendrerit, dignissim a ex. Aliquam tempus ex et aliquet laoreet. Suspendisse purus felis, hendrerit vel ornare non, fermentum sit amet sapien. Fusce eu mi hendrerit, ullamcorper felis non, condimentum quam. In euismod pulvinar tincidunt. Quisque posuere laoreet purus, vel varius magna tristique eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+## español
+
+### subtítulo
+
+In vel mattis velit, at cursus leo. Cras scelerisque quis nisi nec efficitur. Aliquam euismod ipsum ac enim consectetur, eget hendrerit purus scelerisque. Nam venenatis id est at interdum. Integer fermentum metus finibus, dictum tellus vehicula, ornare risus. Vivamus nec nisl volutpat ligula viverra consectetur id sit amet nisl. Vestibulum efficitur, eros sed lobortis elementum, dui dolor faucibus elit, eget malesuada nisl quam vel libero. Quisque facilisis dui neque, id ullamcorper nulla rutrum at. Duis lacinia turpis eget enim vulputate, ut aliquet risus interdum. Morbi posuere ac quam ornare convallis. Vivamus venenatis enim sit amet lobortis tincidunt. Donec bibendum non ipsum vitae congue.
+
+### subtítulo
+
+Sed fermentum facilisis iaculis. Phasellus rhoncus eu nisi eu mattis. Nulla efficitur ipsum orci, non sodales nisi posuere vel. Sed congue neque pharetra, malesuada purus sed, dignissim leo. Praesent eget nibh eu lectus viverra scelerisque. Donec dictum maximus dignissim. Praesent aliquam nibh at venenatis laoreet. Donec dui sapien, ullamcorper viverra luctus nec, elementum eu metus. 
+
+--------------------------------------
+
+# fin
+
+[return to index](../index.html)
+
+<center>
+![](../figure/avallecam-profile-20200101.png){ width=10% }
+</center>
+<center>
+![](../figure/zeze.png){ width=3% }
+Andree Valle-Campos, `r format(Sys.time(), '%Y%m%d')`
+</center>

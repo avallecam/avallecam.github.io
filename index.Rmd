@@ -3,6 +3,7 @@ title: Hi there 👋
 output: 
   html_document:
     theme: simplex
+    # css: "thistimewithstyle.css"
 editor_options: 
   chunk_output_type: console
 ---
@@ -161,7 +162,7 @@ scholar::get_publications(id) %>%
 
 ##### blog
 
-- [20220919](20220919-blog-test.html)
+- [20220919-test](blog/20220919-blog-test.html)
 
 --------------------------------------
 
