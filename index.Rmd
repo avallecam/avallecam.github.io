@@ -42,12 +42,18 @@ knitr::opts_chunk$set(
 )
 ```
 
+```{r,eval=FALSE,echo=FALSE,message=FALSE,warning=FALSE}
+if(!require("pak")) install.packages("pak")
+if(!require("tidyverse")) pak::pak("tidyverse")
+if(!require("scholar")) pak::pak("scholar")
+if(!require("knitr")) pak::pak("knitr")
+```
+
 ```{r,echo=FALSE,message=FALSE,warning=FALSE}
-if(!require(pacman)) install.packages("pacman")
-pacman::p_load_gh('hadley/emo')
-pacman::p_load(tidyverse,
-               scholar,
-               knitr)
+library(emo)
+library(tidyverse)
+library(scholar)
+library(knitr)
 ```
 
 
