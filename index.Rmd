@@ -484,9 +484,10 @@ Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** 
 
 ##### ahora
 
-- 🎉 Desarrollador en `R` e Instructor en [The GRAPH Network](https://www.linkedin.com/company/the-graph-network/);
-- 💻 Freelancer y profesor a distancia; 
+<!-- - 💻 Freelancer y profesor a distancia;  -->
 <!-- - ✒️ ¡Escribiendo los manuscritos de mi tesis! -->
+- 🎉 Construyendo comunidad y entrenamientos en [Epiverse-TRACE](https://data.org/initiatives/epiverse/);
+- 🍎 Elaboré una clase sobre mapas con `R` para [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
 - ✨ Elaboré el paquete [serosurvey](https://avallecam.github.io/serosurvey/) 📦; 
 - ⭐ Coordinador en un último [curso](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) en [análisis de brotes](https://www.reconlearn.org/topics/spanish.html) en [latinoamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 <!-- https://www.cursoepidemias-col-peru-2021.org/ -->
@@ -494,7 +495,7 @@ Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** 
 
 ##### bio
 
-- 🏠 Soy un investigador con orientación computacional* formado en **genética + biotecnología** e investigación cuantitativa en **epidemiología**;
+- 🏠 Soy un investigador con *orientación computacional* formado en **genética y biotecnología**, y aplicación estadística en **epidemiología**;
 <!-- - 📜 Hice mi [MSc](https://github.com/avallecam/movmal) en la **Universidad Peruana Cayetano Heredia** (2018); -->
 - 📜 Hice mi investigación [MSc](https://github.com/avallecam/movmal) sobre la movilidad humana y la historia de la malaria en la amazonía peruana (**UPCH, 2018**);
 <!-- - 📜 Hice mi [BSc](https://github.com/avallecam/abnomic) en la **Universidad Nacional Mayor de San Marcos** (2015); -->
@@ -505,12 +506,12 @@ Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** 
 - ⚙️ 
 Soy un competente usuario de **`R`**, experto **limpiador** de datos (`tidy`) y entusiasta de la **visualización** de `ggplot2`. 
 - ☁️ Tengo fluidez con `bash` para la **automatización**, `shh` para la **computación remota**, y `shiny` para tableros **reactivos**.
-- 📀 He realizado **flujos de trabajo estadísticos** con datos ómicos, serológicos, gps, servicios de salud y **espacio-temporales** de brotes;
-- 🥤 He complementado mi **formación** con comunidades impresionantes: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/);
+- 📀 He *intentado* realizar **flujos de trabajo estadísticos** con datos ómicos, serológicos, gps, servicios de salud y **espacio-temporales** de brotes;
+- 🥤 He complementado mi **formación** con comunidades impresionantes: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/), [carpentries](https://carpentries.github.io/instructor-training/);
 
 ##### contacto
 
-- 💬 Escríbe [me](https://www.linkedin.com/in/avallecam/) sobre **bioestadística aplicada**, **educación en ciencias de los datos** e **investigación reproducible**;
+- 💬 Escríbe [me](https://www.linkedin.com/in/avallecam/) sobre **`R` en epidemiología**, **educación en ciencias de los datos** y **bioestadística aplicada**;
 - 📫 Ponte en contacto conmigo: avallecam at gmail;
 - 🐤 Tuitéame: [`@avallecam`](https://twitter.com/avallecam).
 
@@ -521,11 +522,11 @@ Soy un competente usuario de **`R`**, experto **limpiador** de datos (`tidy`) y 
 
 ##### escritos
 
-- 🔖 __[opinión] Datos y transparencia para luchar contra el coronavirus, 2020__
-https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
-
 - 🔖 __[editorial] Ciencia de datos en salud: Aplicaciones en el CDC Perú, 2019__
 https://avallecam.github.io/health_data_science_editorial/
+
+- 🔖 __[opinión] Datos y transparencia para luchar contra el coronavirus, 2020__
+https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
 
 ##### publicaciones
 
@@ -533,19 +534,16 @@ https://avallecam.github.io/health_data_science_editorial/
 
 
 ```{r,message=FALSE,warning=FALSE}
-if(!require("pacman")) 
-  install.packages("pacman")
-
-pacman::p_load(tidyverse,
-               scholar,
-               knitr)
+library(tidyverse)
+library(scholar)
+library(knitr)
 
 id <- "p1Tq4esAAAAJ"
 
 scholar::get_publications(id) %>% 
   as_tibble() %>% 
   select(title:year) %>% 
-  arrange(desc(year),desc(cites)) %>% 
+  arrange(desc(cites)) %>% 
   knitr::kable()
 ```
 
