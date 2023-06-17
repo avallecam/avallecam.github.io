@@ -420,7 +420,7 @@ __[ES] Linear models in R, 2019__
 I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
 - 🎼 I occasionally [play](https://soundcloud.com/avallecam) guitar🎸|piano🎹;
 - 🖤 I read a manga called [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
-- 🍃 I watch an anime called [Naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), previously [Avatar](https://www.netflix.com/gb/title/70142405);
+- 🍃 I watch an anime called [naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), previously [avatar](https://www.netflix.com/gb/title/70142405);
 - 🎨 I appreciate visiting [art galleries](https://coleccion.mali.pe/collections), [unexpected](https://maclima.pe/project/visitante-fernando-de-szyszlo/) findings [occur](https://www.metmuseum.org/es/art/collection/search/267838);
 - 🥦 I got curious on physical biology after: [goodwin](https://libgen.rs/book/index.php?md5=CBFF641AD61645A284EE4566EB2B0146), [bejan](https://libgen.rs/book/index.php?md5=F9D8AF5DCDF3C74ED2C34A56C7522E22), [leibler](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.041014);
 <!-- [cabrera](https://www.researchgate.net/publication/313988377_ON_NATURAL_STRUCTURES_THE_UNIFICATION_OF_NATURE) -->
@@ -799,7 +799,7 @@ __Modelos lineales en R, 2019__
 Guardo [artmósferas](https://www.instagram.com/avallecam_/) en un par [más]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
 - 🎼 De vez en cuando [toco](https://soundcloud.com/avallecam) la guitarra🎸|piano🎹;
 - 🖤 Leo un manga llamado [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
-- 🍃 Veo un anime llamado [Naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), antes [Avatar](https://www.netflix.com/gb/title/70142405);
+- 🍃 Veo un anime llamado [naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), antes [avatar](https://www.netflix.com/gb/title/70142405);
 - 🎨 Aprecio visitar [galerías de arte](https://coleccion.mali.pe/collections), [hallazgos inesperados](https://maclima.pe/project/visitante-fernando-de-szyszlo/) [ocurren](https://www.metmuseum.org/es/art/collection/search/267838);
 - 🥦 
 Curioso por la biología física por: [goodwin](https://libgen.rs/book/index.php?md5=CBFF641AD61645A284EE4566EB2B0146), [bejan](https://libgen.rs/book/index.php?md5=F9D8AF5DCDF3C74ED2C34A56C7522E22), [leibler](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.041014);
