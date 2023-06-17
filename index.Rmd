@@ -102,9 +102,10 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 ##### now
 
-- 🎉 `R` Developer and Instructor at [The GRAPH Network](https://www.linkedin.com/company/the-graph-network/);
-- 💻 Freelancer and remote teacher; 
+<!-- - 💻 Freelancer and remote teacher;  -->
 <!-- - ✒️ Writing my thesis manuscripts! -->
+- 🎉 Community builder and Trainer at [the Epiverse-TRACE](https://data.org/initiatives/epiverse/);
+- 🍎 Crafted a GeoViz with `R` lesson for [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
 - ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
 - ⭐ Coordinator in a last [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 <!-- https://www.cursoepidemias-col-peru-2021.org/ -->
@@ -112,7 +113,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 ##### bio
 
-- 🏠 I am a *computationally-oriented* researcher trained in **genetics + biotechnology** and quantitative **epidemiological research**;
+- 🏠 I am a *computationally-oriented* researcher trained in **genetics and biotech**, and apply statistics in **epidemiology**;
 <!-- - 📜 I did my [MSc](https://github.com/avallecam/movmal) at the **Universidad Peruana Cayetano Heredia** (2018); -->
 - 📜 I did my [MSc](https://github.com/avallecam/movmal) research about human mobility and malaria history in the peruvian amazon (**UPCH, 2018**);
 <!-- - 📜 I did my [BSc](https://github.com/avallecam/abnomic) at the **Universidad Nacional Mayor de San Marcos** (2015); -->
@@ -122,12 +123,12 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 - ⚙️ I am a proficient **`R` user**, expert `tidy` data **wrangler** and `ggplot2` **visualization** enthusiast. 
 - ☁️ I am fluid with `bash` for **automation**, `shh` for **remote** computing, and `shiny` for reactive **dashboards**.
-- 📀 I have made **statistical workflows** with omic, serological, gps, health service, and outbreak **spatio-temporal** data;
-- 🥤 I have complemented my **training** with awesome communities: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/);
+- 📀 I have *tried to* make **statistical workflows** with omic, serological, gps, health service, and outbreak **spatio-temporal** data;
+- 🥤 I have complemented my **training** with awesome communities: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/), [carpentries](https://carpentries.github.io/instructor-training/);
 
 ##### contact
 
-- 💬 Ping [me](https://www.linkedin.com/in/avallecam/) about **applied biostatistics**, **data science education**, and **reproducible research**;
+- 💬 Ping [me](https://www.linkedin.com/in/avallecam/) about **`R` in epidemiology**, **data science education**, and **applied biostatistics**;
 - 📫 Reach me: avallecam at gmail;
 - 🐤 Tweet me: [`@avallecam`](https://twitter.com/avallecam).
 
@@ -138,11 +139,11 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 ##### writings
 
-- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
-https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
-
 - 🔖 __[editorial][ES] Health Data Science: Applications at CDC Perú, 2019__
 https://avallecam.github.io/health_data_science_editorial/
+
+- 🔖 __[opinion][ES] Data and transparency to fight against the coronavirus, 2020__
+https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
 
 ##### publications
 
@@ -150,19 +151,16 @@ https://avallecam.github.io/health_data_science_editorial/
 
 
 ```{r,message=FALSE,warning=FALSE}
-if(!require("pacman")) 
-  install.packages("pacman")
-
-pacman::p_load(tidyverse,
-               scholar,
-               knitr)
+library(tidyverse)
+library(scholar)
+library(knitr)
 
 id <- "p1Tq4esAAAAJ"
 
 scholar::get_publications(id) %>% 
   as_tibble() %>% 
   select(title:year) %>% 
-  arrange(desc(year),desc(cites)) %>% 
+  arrange(desc(cites)) %>% 
   knitr::kable()
 ```
 
