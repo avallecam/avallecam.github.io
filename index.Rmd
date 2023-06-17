@@ -104,7 +104,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 <!-- - 💻 Freelancer and remote teacher;  -->
 <!-- - ✒️ Writing my thesis manuscripts! -->
-- 🎉 Community builder and Trainer at [the Epiverse-TRACE](https://data.org/initiatives/epiverse/);
+- 🎉 Community building and Training at [the Epiverse-TRACE](https://data.org/initiatives/epiverse/);
 - 🍎 Crafted a GeoViz with `R` lesson for [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
 - ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
 - ⭐ Coordinator in a last [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
