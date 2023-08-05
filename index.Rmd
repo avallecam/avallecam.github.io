@@ -67,7 +67,9 @@ library(knitr)
 ![](figure/avallecam-profile-20211030.jpeg){ width=90% }
 </center>
 
-#### __I'm a `r emo::ji("peru")` researcher trained in genetics and skilled in health data science__
+#### __My job training is in epidemiology and serology research using a health data science approach__
+
+<!-- genomics -->
 
 --------------------------------------
 
@@ -449,7 +451,7 @@ I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]
 ![](figure/avallecam-profile-20211030.jpeg){ width=90% }
 </center>
 
-#### __Soy un investigador `r emo::ji("peru")` formado en genética y con experiencia en ciencia de datos en salud__
+#### __Mi formación laboral es en investigación en epidemiología y serología utilizando un enfoque de ciencia de datos de salud__
 
 --------------------------------------
 
