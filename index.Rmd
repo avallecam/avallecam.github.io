@@ -474,7 +474,7 @@ enfoques **cuanti** y de **bioingeniería**, y los principios de **configuració
 <!-- 🌱 Interesado en **biología de sistemas cuantitativa**, **bioingeniería del desarrollo**, **señalización** y principios de **configuración** de la materia viva.  -->
 
 ⛑️ 
-Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** (reutilizables). Aquí hay una versión estructurada en **pdf** de mi [cv/resume](https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf) en inglés.
+Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** (reutilizables) y una versión estructurada en **pdf** de mi [cv/resume](https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf) en inglés.
 <!-- en inglés [EN] y español [ES] -->
 
 
