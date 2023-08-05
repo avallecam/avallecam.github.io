@@ -419,7 +419,7 @@ __[ES] Linear models in R, 2019__
 - 🎬 I love watching [musical videos]( https://bit.ly/avc-musicamundial);
 - `r emo::ji("peru")` I have a playlist of [peruvian music](https://bit.ly/avc-musicaperuana);
 - 🗃️ 
-I store [artmospheres](https://www.instagram.com/avallecam_/) in a couple [more]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
+I store [artmospheres](https://www.instagram.com/recursivoo/) in a couple [more]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
 - 🎼 I occasionally [play](https://soundcloud.com/avallecam) guitar🎸|piano🎹;
 - 🖤 I read a manga called [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
 - 🍃 I watch an anime called [naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), previously [avatar](https://www.netflix.com/gb/title/70142405);
@@ -798,7 +798,7 @@ __Modelos lineales en R, 2019__
 - 🎬 Me encanta ver [videos musicales]( https://bit.ly/avc-musicamundial);
 - `r emo::ji("peru")` Tengo una lista de reproducción de [música peruana](https://bit.ly/avc-musicaperuana);
 - 🗃️ 
-Guardo [artmósferas](https://www.instagram.com/avallecam_/) en un par [más]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
+Guardo [artmósferas](https://www.instagram.com/recursivoo/) en un par [más]((https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists));
 - 🎼 De vez en cuando [toco](https://soundcloud.com/avallecam) la guitarra🎸|piano🎹;
 - 🖤 Leo un manga llamado [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
 - 🍃 Veo un anime llamado [naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), antes [avatar](https://www.netflix.com/gb/title/70142405);
