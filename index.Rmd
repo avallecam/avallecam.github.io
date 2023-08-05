@@ -88,7 +88,7 @@ Continuously integrating **open** science, **software** development and **teachi
 <!-- **healthy** work habits -->
 
 🌱 Interested in **systems** developmental biology,
-**quantitative** and **bioengineering** approaches, living matter **configuration** principles.
+**quantitative** and **bioengineering** approaches, & living matter **configuration** principles.
 <!-- 🌱 Interested in **quantitative** systems biology, **developmental** bioengineering, **signaling** and living matter **configuration** principles.  -->
 
 ⛑️ 
@@ -115,7 +115,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 
 ##### bio
 
-- 🏠 I am a *computationally-oriented* researcher trained in **genetics and biotech**, and apply statistics in **epidemiology**;
+- 🏠 I have trained in *scientific computing* practices for **genetics and biotech**, and applied statistics in **epidemiology**;
 <!-- - 📜 I did my [MSc](https://github.com/avallecam/movmal) at the **Universidad Peruana Cayetano Heredia** (2018); -->
 - 📜 I did my [MSc](https://github.com/avallecam/movmal) research about human mobility and malaria history in the peruvian amazon (**UPCH, 2018**);
 <!-- - 📜 I did my [BSc](https://github.com/avallecam/abnomic) at the **Universidad Nacional Mayor de San Marcos** (2015); -->
@@ -470,7 +470,7 @@ Yo tomo problemas de **datos** para aprender nuevas **herramientas** en la ruta 
 <!-- **hábitos de trabajo saludables** -->
 
 🌱 Interesado en biología de **sistemas** del desarrollo,
-enfoques **cuantitativos** y de **bioingeniería**, principios de **configuración** de la materia viva.
+enfoques **cuanti** y de **bioingeniería**, y los principios de **configuración** de la materia viva.
 <!-- 🌱 Interesado en **biología de sistemas cuantitativa**, **bioingeniería del desarrollo**, **señalización** y principios de **configuración** de la materia viva.  -->
 
 ⛑️ 
@@ -497,7 +497,7 @@ Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** 
 
 ##### bio
 
-- 🏠 Soy un investigador con *orientación computacional* formado en **genética y biotecnología**, y aplicación estadística en **epidemiología**;
+- 🏠 Me he formado en *computación científica* aplicada a la **genética y biotecnología**, y estadística aplicada en **epidemiología**;
 <!-- - 📜 Hice mi [MSc](https://github.com/avallecam/movmal) en la **Universidad Peruana Cayetano Heredia** (2018); -->
 - 📜 Hice mi investigación [MSc](https://github.com/avallecam/movmal) sobre la movilidad humana y la historia de la malaria en la amazonía peruana (**UPCH, 2018**);
 <!-- - 📜 Hice mi [BSc](https://github.com/avallecam/abnomic) en la **Universidad Nacional Mayor de San Marcos** (2015); -->
@@ -830,6 +830,9 @@ Curioso por la biología física por: [goodwin](https://libgen.rs/book/index.php
 
 <center>
 ![](figure/avallecam-profile-20200101.png){ width=10% }
+</center>
+<center>
+[edit-ame](https://github.com/avallecam/avallecam.github.io/)
 </center>
 <center>
 ![](figure/zeze.png){ width=3% }
