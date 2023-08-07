@@ -67,7 +67,7 @@ library(knitr)
 ![](figure/avallecam-profile-20211030.jpeg){ width=90% }
 </center>
 
-#### __I'm a `r emo::ji("peru")` who works in epidemiology, serology, and outbreak research using health data science!__
+#### __I'm a `r emo::ji("peru")` who works in epidemiology, serology, and outbreak research using 💻 health data science!__
 
 <!-- genomics -->
 
@@ -451,7 +451,7 @@ I store [artmospheres](https://www.instagram.com/recursivoo/) in a couple [more]
 ![](figure/avallecam-profile-20211030.jpeg){ width=90% }
 </center>
 
-#### __Soy un `r emo::ji("peru")` que trabaja en epidemiología, serología e investigación de brotes con ciencia de datos de salud!__
+#### __Soy un `r emo::ji("peru")` que trabaja en epidemiología, serología y brotes con 💻 ciencia de datos de salud!__
 
 --------------------------------------
 
