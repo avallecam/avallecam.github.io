@@ -83,7 +83,7 @@ I take **data** problems to learn new **tools** in the route to solve them, **mo
 <!-- satisfy my **own** expectations, and **motivate** myself :) -->
 
 🔓 
-Continuously integrating **open** science, **software** development and **teaching** online better practices!
+Continuously integrating **open** science, **software** development and **teaching** online good practices!
 <!-- from its *design* -->
 <!-- **healthy** work habits -->
 
@@ -465,7 +465,7 @@ Yo tomo problemas de **datos** para aprender nuevas **herramientas** en la ruta 
 <!-- satisfacer mis **propias** expectativas, y **motivarme** :) -->
 
 🔓 
-¡Integrando continuamente ciencia **abierta**, el desarrollo de **software** y la **enseñanza** de mejores prácticas en línea!
+¡Integrando continuamente ciencia **abierta**, el desarrollo de **software** y buenas prácticas para la **enseñanza** en línea!
 <!-- desde su *diseño* -->
 <!-- **hábitos de trabajo saludables** -->
 
