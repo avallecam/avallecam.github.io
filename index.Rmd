@@ -108,7 +108,7 @@ This website contains **links** to all my (reusable) scientific **contributions*
 <!-- - ✒️ Writing my thesis manuscripts! -->
 - 🎉 Community building and Training at [the Epiverse-TRACE](https://data.org/initiatives/epiverse/);
 - 🍎 Crafted a [GeoViz](https://thegraphcourses.org/courses/geospatial-visualization/) with `R` lesson for [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
-- ✨ Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package 📦; 
+- 📦 Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package ✨;
 - ⭐ Coordinator in a last [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 <!-- https://www.cursoepidemias-col-peru-2021.org/ -->
 <!-- https://mobile.twitter.com/cdc_peru/status/1392099144689401857 -->
@@ -490,7 +490,7 @@ Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** 
 <!-- - ✒️ ¡Escribiendo los manuscritos de mi tesis! -->
 - 🎉 Construyendo comunidad y entrenamientos en [Epiverse-TRACE](https://data.org/initiatives/epiverse/);
 - 🍎 Elaboré una clase sobre [mapas](https://thegraphcourses.org/courses/geospatial-visualization/) con `R` para [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
-- ✨ Elaboré el paquete [serosurvey](https://avallecam.github.io/serosurvey/) 📦; 
+- 📦 Elaboré el paquete [serosurvey](https://avallecam.github.io/serosurvey/) ✨;
 - ⭐ Coordinador en un último [curso](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) en [análisis de brotes](https://www.reconlearn.org/topics/spanish.html) en [latinoamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
 <!-- https://www.cursoepidemias-col-peru-2021.org/ -->
 <!-- https://mobile.twitter.com/cdc_peru/status/1392099144689401857 -->
