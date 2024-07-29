@@ -57,7 +57,9 @@ library(knitr)
 ```
 
 
-# I'm **Andree Valle Campos** and my pronouns are **él/he/his** {.tabset .tabset-fade}
+# I'm **Andree Valle Campos** y uso muchos emojis •ᴗ• {.tabset .tabset-fade}
+
+<!-- and my pronouns are **él/he/his** -->
 
 ## english {.tabset .tabset-pills .tabset-fade}
 
