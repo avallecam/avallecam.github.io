@@ -1,0 +1,347 @@
+<!--
+Spanish (español) content backed up verbatim from the old index.Rmd during the
+Quarto migration (2026-08-20). The English-only site launched first; this file
+is a reference for a future bilingual pass. The leading underscore on the
+_extras/ folder tells Quarto to skip it when rendering the site.
+-->
+
+## inicio
+
+<center>
+![](figure/avallecam-profile-20211030.jpeg){ width=90% }
+</center>
+
+#### __Soy un 🇵🇪 que trabaja en epidemiología, serología y brotes con 💻 ciencia de datos de salud!__
+
+--------------------------------------
+
+🏗️
+Yo tomo problemas de **datos** para aprender nuevas **herramientas** en la ruta para resolverlos, **motivado** por  preguntas causales y la investigación **reproducible**.
+
+🔓
+¡Integrando continuamente ciencia **abierta**, el desarrollo de **software** y buenas prácticas para la **enseñanza** en línea!
+
+🌱 Interesado en biología de **sistemas** del desarrollo,
+enfoques **cuanti** y de **bioingeniería**, y los principios de **configuración** de la materia viva.
+
+⛑️
+Este sitio web contiene **enlaces** a todas mis **contribuciones científicas** (reutilizables) y una versión estructurada en **pdf** de mi [cv/resume](https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf) en inglés.
+
+--------------------------------------
+
+## vitae
+
+### bio
+
+#### ahora
+
+- 🎉 Construyendo comunidad y entrenamientos en [Epiverse-TRACE](https://data.org/initiatives/epiverse/);
+- 🍎 Elaboré una clase sobre [mapas](https://thegraphcourses.org/courses/geospatial-visualization/) con `R` para [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
+- 📦 Elaboré el paquete [serosurvey](https://avallecam.github.io/serosurvey/) ✨;
+- ⭐ Coordinador en un último [curso](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) en [análisis de brotes](https://www.reconlearn.org/topics/spanish.html) en [latinoamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
+
+#### bio
+
+- 🏠 Me he formado en *computación científica* aplicada a la **genética y biotecnología**, y estadística aplicada en **epidemiología**;
+- 📜 Hice mi investigación [MSc](https://github.com/avallecam/movmal) sobre la movilidad humana y la historia de la malaria en la amazonía peruana (**UPCH, 2018**);
+- 📜 Hice mi investigación [BSc](https://github.com/avallecam/abnomic) sobre respuestas de anticuerpos y malaria vivax severa con microarrays de proteínas (**UNMSM, 2015**);
+
+#### habilidades
+
+- ⚙️
+Soy un competente usuario de **`R`**, experto **limpiador** de datos (`tidy`) y entusiasta de la **visualización** de `ggplot2`.
+- ☁️ Tengo fluidez con `bash` para la **automatización**, `shh` para la **computación remota**, y `shiny` para tableros **reactivos**.
+- 📀 He *intentado* realizar **flujos de trabajo estadísticos** con datos ómicos, serológicos, gps, servicios de salud y **espacio-temporales** de brotes;
+- 🥤 He complementado mi **formación** con comunidades impresionantes: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/), [carpentries](https://carpentries.github.io/instructor-training/);
+
+#### contacto
+
+- 💬 Escríbe [me](https://www.linkedin.com/in/avallecam/) sobre **`R` en epidemiología**, **educación en ciencias de los datos** y **bioestadística aplicada**;
+- 📫 Ponte en contacto conmigo: avallecam at gmail;
+- 🐤 Tuitéame: [`@avallecam`](https://twitter.com/avallecam).
+
+--------------------------------------
+
+### obras
+
+#### escritos
+
+- 🔖 __[editorial] Ciencia de datos en salud: Aplicaciones en el CDC Perú, 2019__
+https://avallecam.github.io/health_data_science_editorial/
+
+- 🔖 __[opinión] Datos y transparencia para luchar contra el coronavirus, 2020__
+https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus
+
+#### publicaciones
+
+- 📚 Tengo mi lista de **publicaciones** académicas en ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [orcid](https://orcid.org/0000-0002-7779-481X) y [scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ);
+
+```{r,message=FALSE,warning=FALSE,eval=FALSE}
+library(tidyverse)
+library(scholar)
+library(knitr)
+
+id <- "p1Tq4esAAAAJ"
+
+scholar::get_publications(id) %>%
+  as_tibble() %>%
+  select(title:year) %>%
+  arrange(desc(cites)) %>%
+  knitr::kable()
+```
+
+--------------------------------------
+
+### recursos
+
+#### Paquetes R 📦
+
+estado: ¡aprendizaje en curso!
+
+- 💙 [serosurvey](https://avallecam.github.io/serosurvey/) - estimación de prevalencias.
+- 🚧 [incidenceflow](https://github.com/avallecam/incidenceflow) - flujos de trabajo de epidemias.
+- 💚 [covid19viz](https://avallecam.github.io/covid19viz/) - acceder a los datos de covid-19.
+- 💚 [powder](https://github.com/avallecam/powder) - análisis de potencia (tidy).
+- 🚧 [sitreper](https://github.com/avallecam/sitreper) - informes de situación en el Perú.
+- 💚 [cdcper](https://github.com/avallecam/cdcper) - funciones para el cdc perú.
+- 💚 [epichannel](https://github.com/avallecam/epichannel) - crear canales endémicos.
+- 💚 [epitidy](https://github.com/avallecam/epitidy) - tabla y salidas del modelo.
+- 🚧 [epihelper](https://avallecam.github.io/epihelper/) - funciones personalizadas (geniales).
+
+#### dashboards o tableros de comando
+
+- 💾 vigilancia de enfermedades: https://avallecam.github.io/shiny-server/per/index.html
+- 💾 exploración de datos: https://avallecam.shinyapps.io/data_qc/
+- traducción [ES]: https://avallecam.shinyapps.io/data_qc-es/
+
+#### plantillas
+
+- ♻️ tablas: https://bit.ly/epitables
+- ♻️ manuscritos: https://bit.ly/draftmanuscript
+- ♻️ formularios de encuesta: https://ee.kobotoolbox.org/x/oW0aWyxX
+- ♻️ regresión lineal: https://bit.ly/gglinearregression
+- ♻️ página web: https://github.com/avallecam/avallecam.github.io
+
+#### salvavidas
+
+- 📑 Tengo una **cheatsheet** de código llena de ejemplos reproducibles en [gist](https://gist.github.com/avallecam);
+- 🌍 He aportado **respuestas** para la comunidad [stackoverflow](https://stackoverflow.com/users/6702544/avallecam);
+- 💌 Recopilo **enlaces** útiles para un montón de temas en un [tablero de trello](https://trello.com/b/xtO9VP36/scibites) público.
+
+--------------------------------------
+
+### talleres
+
+🖐️ __Introducción al análisis estadístico de epidemias, 2021__
+
+![](figure/front-workshop-outbreak-3.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/cursoepidemias-analisisbrote
+- ⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html
+
+🖐️ __Introducción a R y Rstudio, 2021__
+
+![](figure/front-workshop-intror-9.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/cursoepidemia-intror
+- ⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html
+
+🖐️ __Introducción a ggplot2, 2021__
+
+![](figure/front-workshop-ggplot-11.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/r08ggplot2
+- 🍿 vídeo: https://youtu.be/waE31-OG8Ho
+- 🍲 repo: https://github.com/avallecam/workshop_ggplot2
+
+🖐️ __Introducción al uso de proyectos en R, 2021__
+
+![](figure/front-workshop-projects-3.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/r02proyectos
+- 🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html
+
+🖐️ __Análisis epidemiológico en R, 2019__
+
+![](figure/front-workshop-epistat-11.PNG){ width=100% }
+
+- 🍭 diapositivas: https://avallecam.github.io/epistat2019/r02.html#1
+- 🍲 repo: https://avallecam.github.io/epistat2019/
+
+🖐️ __Modelos lineales en R, 2019__
+
+![](figure/front-workshop-biostat-6.PNG){ width=100% }
+
+- 🍭 diapositivas: https://avallecam.github.io/epistat2019/r01.html#1
+- 🍲 repo: https://avallecam.github.io/epistat2019/
+
+🖐️ __Estadística inferencial en R, 2019__
+
+![](figure/front-workshop-biostats-31.PNG){ width=100% }
+
+- 🍭 diapositivas: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html#1
+- 🍲 repo: https://avallecam.github.io/biostat2019/
+
+🖐️ __Análisis de microarreglos con Tidyverse y Bioconductor, 2019__
+
+![](figure/front-workshop-microarray-2.PNG){ width=100% }
+
+- 🍲 repo: https://github.com/avallecam/bioinfo2019
+
+🖐️ __Ciencia reproducible y análisis de microarrays, 2017__
+
+![](figure/front-workshop-reprosci-6.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/reproscience-intro
+- ⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html
+- 🍲 repo: https://avallecam.github.io/bioinfo2017/
+
+--------------------------------------
+
+### clases
+
+📌 __Análisis de datos en vigilancia epidemiológica II: análisis espacial, 2021__
+
+![](figure/front-lecture-spatial-8.PNG){ width=100% }
+
+- 🍭 diapositivas: http://bit.ly/episurv2021parte2
+- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2
+
+📌 __Análisis de datos en vigilancia epidemiológica I: persona, lugar, tiempo y curva epidémica, 2021__
+
+![](figure/front-lecture-personplacetime.PNG){ width=100% }
+
+- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1
+- ⚒️ extra: canal endémico https://rpubs.com/avallecam/episurv2021
+
+📌 __Visualización de datos de salud pública y epidemiología de campo, 2021__
+
+![](figure/front-lecture-dashboards-2.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/epiviz2021
+
+📌 __Algoritmos para la detección de aberraciones en la vigilancia epidemiológica, 2020__
+
+![](figure/front-lecture-epichannel-41.png){ width=100% }
+
+- 🍭 diapositivas: https://avallecam.github.io/episurv2020/0101-surveillance.html#1
+- 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd
+
+📌 __Tardígrados y bioinformática en la transferencia horizontal de genes, 2016__
+
+![](figure/front-lecture-tardigate-3.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/tardigate2016
+
+📌 __Redes reguladoras de genes utilizando teoría de grafos y autómatas finitos, 2015-2017__
+
+![](figure/front-lecture-grn-3.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/biomath2017_
+- ⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb
+- 🍲 repo: https://github.com/avallecam/gene_regulatory_networks
+
+--------------------------------------
+
+### charlas
+
+🔔 __[EN] serosurvey: Encuestas serológicas y estimación de la prevalencia bajo clasificación errónea, 2021__
+
+![](figure/front-talk-serosurvey-5.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/serosurvey-user21
+- 🍿 vídeo: https://youtu.be/0mugb1mE68g
+- 🍲 repo: https://github.com/avallecam/serosurvey-user21
+
+🔔 __Introducción al análisis espacial, 2021__
+
+![](figure/spatial-peru-01.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/espacial2021
+
+🔔 __Análisis de #epidemias múltiples y prevalencias con R y purrr, 2020__
+
+![](figure/front-talk-purrr-8.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/bbslisepi
+- 🍿 vídeo: https://youtu.be/mxX8tDmC45E
+
+🔔 __Preguntas causales para intervenciones hipotéticas, 2020__
+
+![](figure/front-talk-causal-51.png){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/casual_question
+
+🔔 __Pruebas de hipótesis con métodos estadísticos no paramétricos, 2020__
+
+![](figure/front-talk-noparam-31.PNG){ width=100% }
+
+- 🍭 diapositivas: https://bit.ly/noparam2020
+- 🍿 vídeo: https://youtu.be/1MTt1Ro-OP4
+
+🔔 __Análisis epidemiológico de la epidemia del síndrome de Guillain Barré en el Perú, 2019__.
+
+<center>
+![](figure/poster-sgb-01.PNG){ width=30% }
+</center>
+
+- 💾 (mejor)póster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg
+- 🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/
+
+🔔 __[resumen] Cambios en los perfiles de morbilidad y mortalidad en el Perú (2002-2016). Aplicaciones con R y el paquete R cdcper, 2019__.
+
+![](figure/cdcperu-temporal_change-01.PNG){ width=100% }
+
+- 🍲 resumen: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178
+
+🔔 __[EN] Movilidad humana e historia de la malaria en una comunidad periurbana de la Amazonía peruana, 2019__.
+
+<center>
+![](figure/poster-malaria-01.PNG){ width=50% }
+</center>
+
+- 💾 póster: https://raw.githubusercontent.com/avallecam/movmal/master/poster/astmh_poster-ValleAA-20191116.jpg
+- 🍲 repo: https://github.com/avallecam/movmal
+
+🔔 __R aplicado a la epidemiología, 2019__
+
+![](figure/front-talk-epiapli-5.PNG){ width=100% }
+
+- 🍭 diapositivas: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia
+- 🍿 vídeo: https://youtu.be/C3Yqw883jrs
+- 🍲 repo: https://avallecam.github.io/epiapli2019/
+
+🔔 __cdcper: reporte y visualización de datos en CDC Perú usando R, 2019__
+
+![](figure/front-talk-cdcper-10.PNG){ width=100% }
+
+- 🍭 diapositivas: https://speakerdeck.com/avallecam/cdcper-reporte-y-visualizacion-de-datos-en-cdc-peru-usando-r
+
+--------------------------------------
+
+## sobre
+
+### sobre mí
+
+- 🏊 Fui [nadador (carril #5)](https://www.youtube.com/watch?v=fN7sJPFeJcw);
+- 🎬 Me encanta ver [videos musicales](https://bit.ly/avc-musicamundial);
+- 🇵🇪 Tengo una lista de reproducción de [música peruana](https://bit.ly/avc-musicaperuana);
+- 🗃️
+Guardo [artmósferas](https://www.instagram.com/recursivoo/) en un par [más](https://www.youtube.com/channel/UCvbhEkxtIVA9ldfhqDFALTA/playlists);
+- 🎼 De vez en cuando [toco](https://soundcloud.com/avallecam) la guitarra🎸|piano🎹;
+- 🖤 Leo un manga llamado [berserk](https://readberserk.com/chapter/berserk-chapter-a0/);
+- 🍃 Veo un anime llamado [naruto](https://www.crunchyroll.com/series/GY9PJ5KWR/naruto), antes [avatar](https://www.netflix.com/gb/title/70142405);
+- 🎨 Aprecio visitar [galerías de arte](https://coleccion.mali.pe/collections), [hallazgos inesperados](https://maclima.pe/project/visitante-fernando-de-szyszlo/) [ocurren](https://www.metmuseum.org/es/art/collection/search/267838);
+- 🥦
+Curioso por la biología física por: [goodwin](https://libgen.rs/book/index.php?md5=CBFF641AD61645A284EE4566EB2B0146), [bejan](https://libgen.rs/book/index.php?md5=F9D8AF5DCDF3C74ED2C34A56C7522E22), [leibler](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.041014);
+- 🌩️ Disfruto leer materialismo dialéctico: [politzer](https://libgen.rs/book/index.php?md5=BDA5E8E26C125758A4C809D3C74F2136), [fromm](https://libgen.rs/book/index.php?md5=2B4A32A41996AEFB7D810F90A67EAEE2), [engels](https://libgen.rs/book/index.php?md5=64BA70A56CE5241A442C2056B3766995);
+- 🔥 Amo leer prosa poética: [oswaldo reynoso](https://www.librosperuanos.com/libros/detalle/7026/El-Goce-de-la-Piel), [martin adan](https://www.librosperuanos.com/libros/detalle/15881/La-casa-de-carton);
+- 🎲 Me gusta escuchar [radiohead](https://youtu.be/I4pezRt9boY), [apparat](https://youtu.be/NOol5V4Tlk8), [niños sin](https://youtu.be/S5vKPHigWqY) [smartphones](https://youtu.be/QI9mksVqivg);
+- 🔮 También me gusta escuchar a [domΔ](https://youtu.be/9nNOWTDvvzk) y el [avant trap peruano](https://youtube.com/playlist?list=PLDHw5KzS-qvJfGR6wuhU-z5XITknspxel)!
+- 🍥 Estoy [aprendiendo](https://www.a11yproject.com/) a diseñar salidas [accesibles](https://user2021.r-project.org/participation/accessibility/).
+- 🌠 Alimento una lista de deseos en [elfster](https://www.elfster.com/profile/097d261f-1196-45a1-a4b4-12e0b245ce2d/wish-lists/be4efeaf-b9e7-465d-bcac-65ef129be519/);
+
+### avallecam
+
+- 🌞 Significa **a**ndree **valle** **cam**pos.
+- 💕 He utilizado intencionadamente [**cam**](https://www.mychinaroots.com/surnames/detail?word=Campos) porque [#tusan](http://www.tusanaje.org/ser-tusan/)
