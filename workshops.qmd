@@ -1,0 +1,67 @@
+---
+title: "Workshops"
+---
+
+🖐️ __[ES] Introduction to statistical analysis of epidemics, 2021__
+
+![](figure/front-workshop-outbreak-3.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/cursoepidemias-analisisbrote
+- ⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html
+
+🖐️ __[ES] Introduction to R and Rstudio, 2021__
+
+![](figure/front-workshop-intror-9.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/cursoepidemia-intror
+- ⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html
+
+🖐️ __[ES] Introduction to ggplot2, 2021__
+
+![](figure/front-workshop-ggplot-11.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/r08ggplot2
+- 🍿 video: https://youtu.be/waE31-OG8Ho
+- 🍲 repo: https://github.com/avallecam/workshop_ggplot2
+
+🖐️ __[ES] Introduction to the use of R projects, 2021__
+
+![](figure/front-workshop-projects-3.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/r02proyectos
+- 🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html
+
+🖐️ __[ES] Epidemiological analysis in R, 2019__
+
+![](figure/front-workshop-epistat-11.PNG){ width=100% }
+
+- 🍭 slides: https://avallecam.github.io/epistat2019/r02.html
+- 🍲 repo: https://avallecam.github.io/epistat2019/
+
+🖐️ __[ES] Linear models in R, 2019__
+
+![](figure/front-workshop-biostat-6.PNG){ width=100% }
+
+- 🍭 slides: https://avallecam.github.io/epistat2019/r01.html
+- 🍲 repo: https://avallecam.github.io/epistat2019/
+
+🖐️ __[ES] Inferential statistics in R, 2019__
+
+![](figure/front-workshop-biostats-31.PNG){ width=100% }
+
+- 🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html
+- 🍲 repo: https://avallecam.github.io/biostat2019/
+
+🖐️ __[ES] Microarray analysis with Tidyverse and Bioconductor, 2019__
+
+![](figure/front-workshop-microarray-2.PNG){ width=100% }
+
+- 🍲 repo: https://github.com/avallecam/bioinfo2019
+
+🖐️ __[ES] Reproducible Science and Microarray Analysis, 2017__
+
+![](figure/front-workshop-reprosci-6.PNG){ width=100% }
+
+- 🍭 slides: https://bit.ly/reproscience-intro
+- ⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html
+- 🍲 repo: https://avallecam.github.io/bioinfo2017/
