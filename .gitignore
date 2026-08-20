@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+/_site/
+renv/library/
+renv/python/
+renv/staging/

@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Andree Valle Campos"
+  site-url: https://avallecam.github.io
+  description: "Personal site with a couple of links!"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Vitae
+        menu:
+          - bio.qmd
+          - publications.qmd
+          - resources.qmd
+          - workshops.qmd
+          - lectures.qmd
+          - talks.qmd
+      - href: blog/index.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/avallecam
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/avallecam/
+        aria-label: LinkedIn
+  favicon: figure/avallecam-profile-20211030.jpeg
+  page-footer:
+    center: "Andree Valle-Campos"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+execute:
+  freeze: auto

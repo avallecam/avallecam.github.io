@@ -1,0 +1,41 @@
+---
+title: "Andree Valle Campos"
+image: figure/avallecam-profile-20211030.jpeg
+about:
+  template: jolla
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:avallecam@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/avallecam
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/avallecam/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/avallecam
+    - text: ORCID
+      href: https://orcid.org/0000-0002-7779-481X
+    - icon: file-earmark-pdf
+      text: CV
+      href: https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf
+---
+
+#### __I'm a 🇵🇪 who works in epidemiology, serology, and outbreak research using 💻 health data science!__
+
+--------------------------------------
+
+🏗️
+I take **data** problems to learn new **tools** in the route to solve them, **motivated** by causal questions and **reproducible** research.
+
+🔓
+Continuously integrating **open** science, **software** development and **teaching** online good practices!
+
+🌱 Interested in **systems** developmental biology,
+**quantitative** and **bioengineering** approaches, & living matter **configuration** principles.
+
+⛑️
+This website contains **links** to all my (reusable) scientific **contributions**. Here is a structured **pdf** version of my [cv/resume](https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf).
