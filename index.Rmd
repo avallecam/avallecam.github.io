@@ -8,6 +8,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+<!-- Render with: rmarkdown::render("index.Rmd") -->
+
 <style type="text/css">
 
 .main-container {
