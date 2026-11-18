@@ -1,41 +1,28 @@
 ---
-title: "Andree Valle Campos"
+title: "Andree Valle-Campos"
 image: figure/avallecam-profile-20211030.jpeg
 about:
-  template: jolla
+  template: trestles
   image-shape: round
   links:
     - icon: envelope
       text: Email
       href: mailto:andree.valle-campos@outlook.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/avallecam
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/avallecam/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/avallecam
-    - text: ORCID
+    - icon: github
+      text: GitHub
+      href: https://github.com/avallecam
+    - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7779-481X
     - icon: file-earmark-pdf
       text: CV
       href: https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf
 ---
 
-#### __I'm a 🇵🇪 who works in epidemiology, serology, and outbreak research using 💻 health data science!__
+Hi! I'm Andree, a health data scientist from Peru working in epidemiology, serology, and outbreak research. I bridge epidemiology and data science to make outbreak analytics more accessible through teaching and open science.
 
---------------------------------------
+I've trained epidemiologists across four continents: Peru, Colombia, Chile, the UK, Uganda, and The Gambia. I developed and organised the short course on outbreak analytics and applied modelling in R at the **London School of Hygiene & Tropical Medicine (LSHTM)**, and wrote tutorials and how-to guides for **Epiverse-TRACE**.
 
-🏗️
-I take **data** problems to learn new **tools** in the route to solve them, **motivated** by causal questions and **reproducible** research.
-
-🔓
-Continuously integrating **open** science, **software** development and **teaching** online good practices!
-
-🌱 Interested in **systems** developmental biology,
-**quantitative** and **bioengineering** approaches, & living matter **configuration** principles.
-
-⛑️
-This website contains **links** to all my (reusable) scientific **contributions**. Here is a structured **pdf** version of my [cv/resume](https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf).
+I also develop [R packages](resources.qmd), such as {serosurvey}, {covid19viz}, and {epitidy}, to close the gap between methods and field practice. If you work on infectious disease response or epidemic modelling, I'd love to [connect](https://www.linkedin.com/in/avallecam/).
