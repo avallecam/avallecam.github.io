@@ -1,0 +1,16 @@
+---
+title: "[ES] Gene regulatory networks using graph theory and finite automatas"
+date: "2017-01-01"
+categories: [Lecture]
+image: ../../../figure/front-lecture-grn-3.PNG
+---
+
+I delivered lectures in Spanish on gene regulatory networks using graph theory and finite automata, for the Biomathematics course at UNMSM (2015-2017). Materials are available below: slides, a tutorial and the code repository.
+
+![](../../../figure/front-lecture-grn-3.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/biomath2017_
+- ⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb
+- 🍲 repo: https://github.com/avallecam/gene_regulatory_networks

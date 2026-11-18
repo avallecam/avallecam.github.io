@@ -1,0 +1,15 @@
+---
+title: "[ES] Introduction to the use of R projects"
+date: "2021-01-01"
+categories: [Workshop]
+image: ../../../figure/front-workshop-projects-3.PNG
+---
+
+I delivered a workshop in Spanish on project management with R projects, as part of the CDC Peru introductory R course. Materials are available below: slides and the code repository.
+
+![](../../../figure/front-workshop-projects-3.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/r02proyectos
+- 🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html

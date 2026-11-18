@@ -1,0 +1,15 @@
+---
+title: "[ES] Introduction to statistical analysis of epidemics"
+date: "2021-01-01"
+categories: [Workshop]
+image: ../../../figure/front-workshop-outbreak-3.PNG
+---
+
+I delivered a workshop in Spanish introducing the statistical analysis of epidemics, using real-time outbreak response practicals from RECON learn. Materials are available below: slides and a tutorial.
+
+![](../../../figure/front-workshop-outbreak-3.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/cursoepidemias-analisisbrote
+- ⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html

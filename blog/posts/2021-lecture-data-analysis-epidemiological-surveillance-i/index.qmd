@@ -1,0 +1,15 @@
+---
+title: "[ES] Data analysis in epidemiological surveillance I: person, place, time and epidemic curve"
+date: "2021-01-01"
+categories: [Lecture]
+image: ../../../figure/front-lecture-personplacetime.PNG
+---
+
+I delivered a lecture in Spanish on data analysis in epidemiological surveillance: person, place, time and the epidemic curve. Materials are available below: a tutorial and an extra tutorial.
+
+![](../../../figure/front-lecture-personplacetime.PNG){ width=100% }
+
+Links to materials:
+
+- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1
+- ⚒️ extra: endemic channel https://rpubs.com/avallecam/episurv2021

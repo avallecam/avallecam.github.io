@@ -1,0 +1,15 @@
+---
+title: "[ES] Analysis of #multiple epidemics and prevalences with R and purrr"
+date: "2020-01-01"
+categories: [Talk]
+image: ../../../figure/front-talk-purrr-8.PNG
+---
+
+I delivered a talk in Spanish at the Laboratorio de Innovación en Salud (BBS) on analysing multiple epidemics and prevalences with R and purrr. Materials are available below: slides and a video recording.
+
+![](../../../figure/front-talk-purrr-8.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/bbslisepi
+- 🍿 video: https://youtu.be/mxX8tDmC45E

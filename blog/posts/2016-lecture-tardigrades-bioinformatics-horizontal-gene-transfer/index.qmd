@@ -1,0 +1,14 @@
+---
+title: "[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer"
+date: "2016-01-01"
+categories: [Lecture]
+image: ../../../figure/front-lecture-tardigate-3.PNG
+---
+
+I delivered a lecture in Spanish on tardigrades and bioinformatics in horizontal gene transfer, for an elective course in the Genetics and Biotechnology programme at UNMSM. Materials are available below: slides.
+
+![](../../../figure/front-lecture-tardigate-3.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/tardigate2016

@@ -1,0 +1,14 @@
+---
+title: "[ES] cdcper: data report and visualization in CDC Peru using R"
+date: "2019-01-01"
+categories: [Talk]
+image: ../../../figure/front-talk-cdcper-10.PNG
+---
+
+I delivered a talk in Spanish on cdcper, an R package for data reporting and visualization at CDC Peru. Materials are available below: slides.
+
+![](../../../figure/front-talk-cdcper-10.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://speakerdeck.com/avallecam/cdcper-reporte-y-visualizacion-de-datos-en-cdc-peru-usando-r

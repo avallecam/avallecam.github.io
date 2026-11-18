@@ -1,0 +1,16 @@
+---
+title: "[ES] Introduction to ggplot2"
+date: "2021-01-01"
+categories: [Workshop]
+image: ../../../figure/front-workshop-ggplot-11.PNG
+---
+
+I delivered a workshop in Spanish introducing data visualization with ggplot2. Materials are available below: slides, a video recording and the code repository.
+
+![](../../../figure/front-workshop-ggplot-11.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/r08ggplot2
+- 🍿 video: https://youtu.be/waE31-OG8Ho
+- 🍲 repo: https://github.com/avallecam/workshop_ggplot2

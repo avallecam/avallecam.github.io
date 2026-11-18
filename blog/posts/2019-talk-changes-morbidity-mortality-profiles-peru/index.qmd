@@ -1,0 +1,14 @@
+---
+title: "[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package"
+date: "2019-01-01"
+categories: [Talk]
+image: ../../../figure/cdcperu-temporal_change-01.PNG
+---
+
+I presented an abstract in Spanish on changes in the morbidity and mortality profiles of Peru (2002-2016), with applications of R and the cdcper package. Materials are available below: the published abstract.
+
+![](../../../figure/cdcperu-temporal_change-01.PNG){ width=100% }
+
+Links to materials:
+
+- 🍲 abstract: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178

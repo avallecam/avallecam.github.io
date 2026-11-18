@@ -15,9 +15,12 @@ website:
           - bio.qmd
           - publications.qmd
           - resources.qmd
-          - workshops.qmd
-          - lectures.qmd
-          - talks.qmd
+          - text: Workshops
+            href: blog/index.qmd#category=Workshop
+          - text: Lectures
+            href: blog/index.qmd#category=Lecture
+          - text: Talks
+            href: blog/index.qmd#category=Talk
       - href: blog/index.qmd
         text: Blog
       - href: about.qmd
@@ -38,6 +41,7 @@ website:
 
 format:
   html:
+    from: markdown+autolink_bare_uris
     theme: cosmo
     css: styles.css
     toc: false
