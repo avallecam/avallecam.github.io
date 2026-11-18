@@ -1,0 +1,17 @@
+/* Typography: rely on the cosmo theme defaults, only loosen line height */
+body {
+  line-height: 1.7;
+}
+
+/* Home page (trestles): comfortable reading width for the bio */
+.quarto-about-trestles .about-contents {
+  max-width: 42rem;
+}
+
+/* Blog listing: let long URLs wrap so the date column stays visible */
+.quarto-post .body {
+  min-width: 0;
+}
+.quarto-post .listing-description {
+  overflow-wrap: anywhere;
+}
