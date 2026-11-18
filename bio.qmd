@@ -15,9 +15,9 @@ title: "Bio"
 
 ## Education
 
-- **MSc** in Epidemiological research (UPCH, 2018). [Research](https://github.com/avallecam/movmal) on human mobility and malaria history in the Peruvian Amazon.
-- **BSc** in Genetics and Biotechnology (UNMSM, 2015). [Research](https://github.com/avallecam/abnomic) on antibody responses and severe vivax malaria using protein microarrays.
-- Trained in *scientific computing* for **genetics and biotech**, and in applied statistics for **epidemiology**.
+- **MSc** in Epidemiological Research (UPCH, 2018), with a thesis project on [human mobility and malaria history](https://github.com/avallecam/movmal) in the Peruvian Amazon.
+- **BSc** in Genetics and Biotechnology (UNMSM, 2015), with a thesis project on [antibody responses in severe vivax malaria](https://github.com/avallecam/abnomic) using protein microarrays.
+- Trained in **scientific computing** for genetics and biotech, and in **applied statistics** for epidemiology.
 
 ## Skills
 
