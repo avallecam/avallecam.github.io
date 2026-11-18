@@ -6,7 +6,7 @@ title: "Bio"
 
 - Community building and training at [Epiverse-TRACE](https://data.org/initiatives/epiverse/), developing tutorials and how-to guides for outbreak analytics (completed).
 - Developed and organised the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM) (completed).
-- Author of a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for [The GRAPH Network](https://thegraphcourses.org/courses-portal/).
+- Author of a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for The GRAPH Network.
 
 <!--
 - Developer of the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
