@@ -1,0 +1,15 @@
+---
+title: "[ES] Algorithms for the detection of aberrations in epidemiological surveillance"
+date: "2020-01-01"
+categories: [Lecture]
+image: ../../../figure/front-lecture-epichannel-41.png
+---
+
+I delivered a lecture in Spanish on algorithms for detecting aberrations in epidemiological surveillance data. Materials are available below: slides and the code repository.
+
+![](../../../figure/front-lecture-epichannel-41.png){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html
+- 🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd

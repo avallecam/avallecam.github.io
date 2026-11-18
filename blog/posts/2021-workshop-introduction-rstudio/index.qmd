@@ -1,0 +1,15 @@
+---
+title: "[ES] Introduction to R and Rstudio"
+date: "2021-01-01"
+categories: [Workshop]
+image: ../../../figure/front-workshop-intror-9.PNG
+---
+
+I delivered a workshop in Spanish introducing R and RStudio, using an introductory practical from RECON learn. Materials are available below: slides and a tutorial.
+
+![](../../../figure/front-workshop-intror-9.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/cursoepidemia-intror
+- ⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html

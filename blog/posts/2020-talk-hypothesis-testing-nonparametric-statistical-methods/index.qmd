@@ -1,0 +1,15 @@
+---
+title: "[ES] Hypothesis testing with nonparametric statistical methods"
+date: "2020-01-01"
+categories: [Talk]
+image: ../../../figure/front-talk-noparam-31.PNG
+---
+
+I delivered a talk in Spanish on hypothesis testing with nonparametric statistical methods. Materials are available below: slides and a video recording.
+
+![](../../../figure/front-talk-noparam-31.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/noparam2020
+- 🍿 video: https://youtu.be/1MTt1Ro-OP4

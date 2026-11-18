@@ -1,0 +1,15 @@
+---
+title: "[ES] Linear models in R"
+date: "2019-01-01"
+categories: [Workshop]
+image: ../../../figure/front-workshop-biostat-6.PNG
+---
+
+I delivered a workshop in Spanish on linear models in R, as part of the course Epidemiological Analysis using R. Materials are available below: slides and the code repository.
+
+![](../../../figure/front-workshop-biostat-6.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://avallecam.github.io/epistat2019/r01.html
+- 🍲 repo: https://avallecam.github.io/epistat2019/

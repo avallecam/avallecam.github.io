@@ -1,0 +1,16 @@
+---
+title: "serosurvey: Serological Surveys and Prevalence Estimation Under Misclassification"
+date: "2021-01-01"
+categories: [Talk]
+image: ../../../figure/front-talk-serosurvey-5.PNG
+---
+
+I delivered a talk at useR! 2021 on serosurvey, an R package for serological surveys and prevalence estimation under misclassification. Materials are available below: slides, a video recording and the code repository.
+
+![](../../../figure/front-talk-serosurvey-5.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/serosurvey-user21
+- 🍿 video: https://youtu.be/0mugb1mE68g
+- 🍲 repo: https://github.com/avallecam/serosurvey-user21

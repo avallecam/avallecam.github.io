@@ -1,0 +1,15 @@
+---
+title: "[ES] Data analysis in epidemiological surveillance II: spatial analysis"
+date: "2021-01-01"
+categories: [Lecture]
+image: ../../../figure/front-lecture-spatial-8.PNG
+---
+
+I delivered a lecture in Spanish on data analysis in epidemiological surveillance, focused on spatial analysis. Materials are available below: slides and a tutorial.
+
+![](../../../figure/front-lecture-spatial-8.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: http://bit.ly/episurv2021parte2
+- ⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2

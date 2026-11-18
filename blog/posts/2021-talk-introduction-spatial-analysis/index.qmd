@@ -1,0 +1,14 @@
+---
+title: "[ES] Introduction to spatial analysis"
+date: "2021-01-01"
+categories: [Talk]
+image: ../../../figure/spatial-peru-01.PNG
+---
+
+I delivered a talk in Spanish introducing spatial analysis. Materials are available below: slides.
+
+![](../../../figure/spatial-peru-01.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/espacial2021

@@ -1,0 +1,14 @@
+---
+title: "[ES] Causal questions for hypothetical interventions"
+date: "2020-01-01"
+categories: [Talk]
+image: ../../../figure/front-talk-causal-51.png
+---
+
+I delivered a talk in Spanish on causal questions for hypothetical interventions. Materials are available below: slides.
+
+![](../../../figure/front-talk-causal-51.png){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/casual_question

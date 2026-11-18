@@ -1,0 +1,14 @@
+---
+title: "[ES] Visualizing public health and field epidemiology data"
+date: "2021-01-01"
+categories: [Lecture]
+image: ../../../figure/front-lecture-dashboards-2.PNG
+---
+
+I delivered a lecture in Spanish on visualizing public health and field epidemiology data. Materials are available below: slides.
+
+![](../../../figure/front-lecture-dashboards-2.PNG){ width=100% }
+
+Links to materials:
+
+- 🍭 slides: https://bit.ly/epiviz2021

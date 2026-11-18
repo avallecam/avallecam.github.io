@@ -1,0 +1,15 @@
+---
+title: "[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru"
+date: "2019-01-01"
+categories: [Talk]
+image: ../../../figure/poster-sgb-01.PNG
+---
+
+I presented a poster in Spanish on the epidemiological analysis of the Guillain-Barré syndrome epidemic in Peru. Materials are available below: the poster and the code repository.
+
+![](../../../figure/poster-sgb-01.PNG){ width=30% fig-align="center" }
+
+Links to materials:
+
+- 💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg
+- 🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/
