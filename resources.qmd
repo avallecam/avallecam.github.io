@@ -4,6 +4,8 @@ title: "Resources"
 
 ## R packages
 
+### Developed
+
 | Package | Description | Status |
 |---------|-------------|--------|
 | [serosurvey](https://avallecam.github.io/serosurvey/) | Estimate prevalences from serological surveys | Stable |
@@ -15,6 +17,17 @@ title: "Resources"
 | [incidenceflow](https://github.com/avallecam/incidenceflow) | Epidemic workflows | In development |
 | [sitreper](https://github.com/avallecam/sitreper) | Situational reports in Peru | In development |
 | [epihelper](https://avallecam.github.io/epihelper/) | Custom helper functions | In development |
+
+### Contributed
+
+I contribute to packages and learning materials that help field epidemiologists analyse outbreak data in R:
+
+- **[Epiverse-TRACE](https://epiverse-trace.github.io/)**: an ecosystem of R packages for outbreak analytics. I co-developed its [learning materials](https://epiverse-trace.github.io/learn.html):
+  - [Reading and cleaning data for outbreak analytics with R](https://epiverse-trace.github.io/tutorials-early/)
+  - [Real-time analysis and forecasting for outbreak analytics with R](https://epiverse-trace.github.io/tutorials-middle/)
+  - [Scenario modelling for outbreak analytics with R](https://epiverse-trace.github.io/tutorials-late/)
+  - [How-to guides for outbreak analytics with R](https://epiverse-trace.github.io/howto/)
+- **[ENDES.PE](https://github.com/horaciochacon/ENDES.PE)**: access and analyse data from Peru's Demographic and Family Health Survey (ENDES).
 
 ## Dashboards
 
