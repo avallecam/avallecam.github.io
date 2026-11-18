@@ -5,7 +5,9 @@ project:
 website:
   title: "Andree Valle Campos"
   site-url: https://avallecam.github.io
-  description: "Personal site with a couple of links!"
+  description: "Andree Valle-Campos — epidemiologist and R developer making outbreak analytics accessible through teaching and open science."
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
@@ -35,14 +37,20 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/avallecam/
         aria-label: LinkedIn
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-7779-481X
+        aria-label: ORCID
   favicon: figure/avallecam-profile-20211030.jpeg
   page-footer:
-    center: "Andree Valle-Campos"
+    left: "© 2026 Andree Valle-Campos"
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
     from: markdown+autolink_bare_uris
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: false
 
