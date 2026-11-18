@@ -5,15 +5,17 @@ title: "Bio"
 ## Experience
 
 - Community building and training at [Epiverse-TRACE](https://data.org/initiatives/epiverse/), developing tutorials and how-to guides for outbreak analytics (completed).
-- Developed and organised the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM) (completed).
+- Developed and organised the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM) (completed).
 - Author of a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-visualization/) lesson with R for [The GRAPH Network](https://thegraphcourses.org/courses-portal/).
+<!--
 - Developer of the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
 - Coordinator of an international [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in Latin America.
+-->
 
 ## Education
 
-- **MSc** (UPCH, 2018). [Research](https://github.com/avallecam/movmal) on human mobility and malaria history in the Peruvian Amazon.
-- **BSc** (UNMSM, 2015). [Research](https://github.com/avallecam/abnomic) on antibody responses and severe vivax malaria using protein microarrays.
+- **MSc** in Epidemiological research (UPCH, 2018). [Research](https://github.com/avallecam/movmal) on human mobility and malaria history in the Peruvian Amazon.
+- **BSc** in Genetics and Biotechnology (UNMSM, 2015). [Research](https://github.com/avallecam/abnomic) on antibody responses and severe vivax malaria using protein microarrays.
 - Trained in *scientific computing* for **genetics and biotech**, and in applied statistics for **epidemiology**.
 
 ## Skills
@@ -26,6 +28,6 @@ title: "Bio"
 ## Contact
 
 - My work lives at the intersection of academia, the public sector, and the open-source community.
-- Get in touch about **`R` in epidemiology**, **data science education**, and **applied biostatistics**.
+- Get in touch about **`R` in epidemiology**, **data science education**, and **applied modelling**.
 - Email: [andree.valle-campos@outlook.com](mailto:andree.valle-campos@outlook.com)
 - LinkedIn: [avallecam](https://www.linkedin.com/in/avallecam/)
