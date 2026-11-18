@@ -57,7 +57,7 @@ Soy un competente usuario de **`R`**, experto **limpiador** de datos (`tidy`) y 
 #### contacto
 
 - 💬 Escríbe [me](https://www.linkedin.com/in/avallecam/) sobre **`R` en epidemiología**, **educación en ciencias de los datos** y **bioestadística aplicada**;
-- 📫 Ponte en contacto conmigo: avallecam at gmail;
+- 📫 Ponte en contacto conmigo: [andree.valle-campos@outlook.com](mailto:andree.valle-campos@outlook.com);
 - 🐤 Tuitéame: [`@avallecam`](https://twitter.com/avallecam).
 
 --------------------------------------

@@ -23,6 +23,9 @@ website:
       - href: about.qmd
         text: About
     right:
+      - icon: envelope
+        href: mailto:andree.valle-campos@outlook.com
+        aria-label: Email
       - icon: github
         href: https://github.com/avallecam
         aria-label: GitHub
