@@ -2,28 +2,30 @@
 title: "Bio"
 ---
 
-## now
+## Experience
 
-- 🎉 Community building and Training at [the Epiverse-TRACE](https://data.org/initiatives/epiverse/);
-- 🍎 Crafted a [GeoViz](https://thegraphcourses.org/courses/geospatial-visualization/) with `R` lesson for [The GRAPH Network](https://thegraphcourses.org/courses-portal/);
-- 📦 Crafted last [serosurvey](https://avallecam.github.io/serosurvey/) package ✨;
-- ⭐ Coordinator in a last [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in [latinamerica](https://twitter.com/avallecam/status/1413682203041701889?s=20);
+- Community building and training at [Epiverse-TRACE](https://data.org/initiatives/epiverse/), developing tutorials and how-to guides for outbreak analytics (completed).
+- Developed and organised the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM) (completed).
+- Author of a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-visualization/) lesson with R for [The GRAPH Network](https://thegraphcourses.org/courses-portal/).
+- Developer of the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
+- Coordinator of an international [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in Latin America.
 
-## bio
+## Education
 
-- 🏠 I have trained in *scientific computing* practices for **genetics and biotech**, and applied statistics in **epidemiology**;
-- 📜 I did my [MSc](https://github.com/avallecam/movmal) research about human mobility and malaria history in the peruvian amazon (**UPCH, 2018**);
-- 📜 I did my [BSc](https://github.com/avallecam/abnomic) research about antibody responses and severe vivax malaria with protein microarrays (**UNMSM, 2015**);
+- **MSc** (UPCH, 2018). [Research](https://github.com/avallecam/movmal) on human mobility and malaria history in the Peruvian Amazon.
+- **BSc** (UNMSM, 2015). [Research](https://github.com/avallecam/abnomic) on antibody responses and severe vivax malaria using protein microarrays.
+- Trained in *scientific computing* for **genetics and biotech**, and in applied statistics for **epidemiology**.
 
-## skills
+## Skills
 
-- ⚙️ I am a proficient **`R` user**, expert `tidy` data **wrangler** and `ggplot2` **visualization** enthusiast.
-- ☁️ I am fluid with `bash` for **automation**, `shh` for **remote** computing, and `shiny` for reactive **dashboards**.
-- 📀 I have *tried to* make **statistical workflows** with omic, serological, gps, health service, and outbreak **spatio-temporal** data;
-- 🥤 I have complemented my **training** with awesome communities: [ictp-saifr](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [codata-rda](https://www.datascienceschools.org/), [recon](https://www.repidemicsconsortium.org/), [metadocencia](https://www.metadocencia.org/cursos/), [carpentries](https://carpentries.github.io/instructor-training/);
+- Proficient **`R` user**, expert `tidy` data **wrangler** and `ggplot2` **visualization** enthusiast.
+- Fluent with `bash` for **automation**, `ssh` for **remote** computing, and `shiny` for reactive **dashboards**.
+- Experience building **statistical workflows** with omic, serological, GPS, health service, and outbreak **spatio-temporal** data.
+- Further training through these communities: [ICTP-SAIFR](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/), [CODATA-RDA](https://www.datascienceschools.org/), [RECON](https://www.repidemicsconsortium.org/), [MetaDocencia](https://www.metadocencia.org/cursos/), [The Carpentries](https://carpentries.github.io/instructor-training/).
 
-## contact
+## Contact
 
-- 💬 Ping [me](https://www.linkedin.com/in/avallecam/) about **`R` in epidemiology**, **data science education**, and **applied biostatistics**;
-- 📫 Reach me: [andree.valle-campos@outlook.com](mailto:andree.valle-campos@outlook.com);
-- 🐤 Tweet me: [`@avallecam`](https://twitter.com/avallecam).
+- My work lives at the intersection of academia, the public sector, and the open-source community.
+- Get in touch about **`R` in epidemiology**, **data science education**, and **applied biostatistics**.
+- Email: [andree.valle-campos@outlook.com](mailto:andree.valle-campos@outlook.com)
+- LinkedIn: [avallecam](https://www.linkedin.com/in/avallecam/)

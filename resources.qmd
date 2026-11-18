@@ -2,36 +2,35 @@
 title: "Resources"
 ---
 
-## R packages 📦
+## R packages
 
-status: learning in progress!
+| Package | Description | Status |
+|---------|-------------|--------|
+| [serosurvey](https://avallecam.github.io/serosurvey/) | Estimate prevalences from serological surveys | Stable |
+| [covid19viz](https://avallecam.github.io/covid19viz/) | Access COVID-19 data | Stable |
+| [powder](https://github.com/avallecam/powder) | Tidy power analysis | Stable |
+| [cdcper](https://github.com/avallecam/cdcper) | Functions for CDC Perú | Stable |
+| [epichannel](https://github.com/avallecam/epichannel) | Create endemic channels | Stable |
+| [epitidy](https://github.com/avallecam/epitidy) | Table and model outputs | Stable |
+| [incidenceflow](https://github.com/avallecam/incidenceflow) | Epidemic workflows | In development |
+| [sitreper](https://github.com/avallecam/sitreper) | Situational reports in Peru | In development |
+| [epihelper](https://avallecam.github.io/epihelper/) | Custom helper functions | In development |
 
-- 💙 [serosurvey](https://avallecam.github.io/serosurvey/) - estimate prevalences.
-- 🚧 [incidenceflow](https://github.com/avallecam/incidenceflow) - epidemic workflows.
-- 💚 [covid19viz](https://avallecam.github.io/covid19viz/) - access covid-19 data.
-- 💚 [powder](https://github.com/avallecam/powder) - tidy power analysis.
-- 🚧 [sitreper](https://github.com/avallecam/sitreper) - situational reports in peru.
-- 💚 [cdcper](https://github.com/avallecam/cdcper) - funciones para el cdc perú.
-- 💚 [epichannel](https://github.com/avallecam/epichannel) - create endemic channels.
-- 💚 [epitidy](https://github.com/avallecam/epitidy) - table and model outputs.
-- 🚧 [epihelper](https://avallecam.github.io/epihelper/) - custom (cool) funtions.
+## Dashboards
 
-## dashboards
+- Disease surveillance: <https://avallecam.github.io/shiny-server/per/index.html>
+- Data exploration: <https://avallecam.shinyapps.io/data_qc/> ([Spanish version](https://avallecam.shinyapps.io/data_qc-es/))
 
-- 💾 disease surveillance: https://avallecam.github.io/shiny-server/per/index.html
-- 💾 data exploration: https://avallecam.shinyapps.io/data_qc/
-- [ES] translation: https://avallecam.shinyapps.io/data_qc-es/
+## Templates
 
-## templates
+- Tables: <https://bit.ly/epitables>
+- Manuscripts: <https://bit.ly/draftmanuscript>
+- Survey forms: <https://ee.kobotoolbox.org/x/oW0aWyxX>
+- Linear regression: <https://bit.ly/gglinearregression>
+- Website: <https://github.com/avallecam/avallecam.github.io>
 
-- ♻️ tables: https://bit.ly/epitables
-- ♻️ manuscripts: https://bit.ly/draftmanuscript
-- ♻️ survey-forms: https://ee.kobotoolbox.org/x/oW0aWyxX
-- ♻️ linear regression: https://bit.ly/gglinearregression
-- ♻️ website: https://github.com/avallecam/avallecam.github.io
+## Other contributions
 
-## lifeguards
-
-- 📑 I have a code **cheatsheet** full of reproducible examples in [gist](https://gist.github.com/avallecam);
-- 🌍 I have contributed **answers** for the [stackoverflow](https://stackoverflow.com/users/6702544/avallecam) community;
-- 💌 I collect helpful **links** for a lot of topics in a public [trello board](https://trello.com/b/xtO9VP36/scibites).
+- A code **cheatsheet** full of reproducible examples on [GitHub Gist](https://gist.github.com/avallecam).
+- **Answers** for the [Stack Overflow](https://stackoverflow.com/users/6702544/avallecam) community.
+- Helpful **links** on many topics in a public [Trello board](https://trello.com/b/xtO9VP36/scibites).
