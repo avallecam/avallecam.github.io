@@ -21,8 +21,8 @@ about:
       href: https://github.com/avallecam/resume/raw/main/cv-andree_vallecampos.pdf
 ---
 
-Hi! I'm Andree, a health data scientist from Peru working in epidemiology, serology, and outbreak research. I bridge epidemiology and data science to make outbreak analytics more accessible through teaching and open science.
+Hi! I'm Andree, an epidemiologist from Peru working in outbreak analytics, serology, and health data science. I bridge epidemiology and quantitative methods to make outbreak response more accessible through teaching and open science.
 
-I've trained epidemiologists across four continents: Peru, Colombia, Chile, the UK, Uganda, and The Gambia. I developed and organised the short course on outbreak analytics and applied modelling in R at the **London School of Hygiene & Tropical Medicine (LSHTM)**, and wrote tutorials and how-to guides for **Epiverse-TRACE**.
+Most recently, at the **London School of Hygiene & Tropical Medicine (LSHTM)**, I developed and organised the short course on outbreak analytics and applied modelling in R, building on the tutorials and how-to guides I wrote for the Epiverse-TRACE project. I've trained **over 300 epidemiologists across five continents**.
 
-I also develop [R packages](resources.qmd), such as {serosurvey}, {covid19viz}, and {epitidy}, to close the gap between methods and field practice. If you work on infectious disease response or epidemic modelling, I'd love to [connect](https://www.linkedin.com/in/avallecam/).
+I also develop and contribute to [R packages](https://avallecam.github.io/resources.html) that help field epidemiologists analyse line lists, social contact surveys, and serological data to produce real-time estimates and scenarios. I'm currently open to consultancies, roles with national health agencies, and curriculum development in infectious disease dynamics, based in Peru or remotely. If you're working in this space, I'd love to connect.
