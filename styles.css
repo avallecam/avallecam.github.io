@@ -13,3 +13,11 @@ p {
 ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
+
+/* Blog listing: let long URLs wrap so the date column stays visible */
+.quarto-post .body {
+  min-width: 0;
+}
+.quarto-post .listing-description {
+  overflow-wrap: anywhere;
+}
