@@ -7,7 +7,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:avallecam@gmail.com
+      href: mailto:andree.valle-campos@outlook.com
     - icon: github
       text: GitHub
       href: https://github.com/avallecam

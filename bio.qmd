@@ -25,5 +25,5 @@ title: "Bio"
 ## contact
 
 - 💬 Ping [me](https://www.linkedin.com/in/avallecam/) about **`R` in epidemiology**, **data science education**, and **applied biostatistics**;
-- 📫 Reach me: avallecam at gmail;
+- 📫 Reach me: [andree.valle-campos@outlook.com](mailto:andree.valle-campos@outlook.com);
 - 🐤 Tweet me: [`@avallecam`](https://twitter.com/avallecam).
