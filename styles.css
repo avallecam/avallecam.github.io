@@ -1,17 +1,11 @@
+/* Typography: rely on the cosmo theme defaults, only loosen line height */
 body {
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 15px;
   line-height: 1.7;
-  color: #222;
-  font-weight: 400;
 }
 
-p {
-  margin-bottom: 16px;
-}
-
-ul, ol, table, pre, dl {
-  margin: 0 0 20px;
+/* Home page (trestles): comfortable reading width for the bio */
+.quarto-about-trestles .about-contents {
+  max-width: 42rem;
 }
 
 /* Blog listing: let long URLs wrap so the date column stays visible */
