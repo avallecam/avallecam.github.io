@@ -1,6 +1,6 @@
 ---
 title: "Andree Valle-Campos"
-image: figure/avallecam-profile-20211030.jpeg
+image: figure/avallecam-perfil-2024.jpg
 about:
   template: trestles
   image-shape: round
