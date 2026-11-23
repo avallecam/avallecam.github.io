@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "I was a swimmer (lane #5);\nI have a playlist of peruvian music;\nI occasionally play guitar and piano;\nI appreciate visiting art galleries, unexpected findings occur;\nI got curious on physical biology after: goodwin, bejan, leibler;\nI enjoy reading dialectical materialism: politzer, fromm, engels;\nI love reading poetic literature: oswaldo reynoso, martin adan;\nI like listening to radiohead, apparat, niños sin smartphones;\nI also like listening to domΔ and the peruvian avant trap!\nI am learning to design accessible outputs."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "I was a swimmer (lane #5);\nI have a playlist of peruvian music;\nI occasionally play guitar and piano;\nI appreciate visiting art galleries, unexpected findings occur;\nI got curious on physical biology after: goodwin, bejan, leibler;\nI enjoy reading dialectical materialism: politzer, fromm, engels;\nI love reading poetic literature: oswaldo reynoso, martin adan;\nI like listening to radiohead, apparat, niños sin smartphones;\nI also like listening to domΔ and the peruvian avant trap!\nI am learning to design accessible outputs."
-  },
-  {
-    "objectID": "about.html#why-avallecam",
-    "href": "about.html#why-avallecam",
-    "title": "About",
-    "section": "Why “avallecam”?",
-    "text": "Why “avallecam”?\n\nStands for andree valle campos.\nI intentionally used cam because of my #tusan"
-  },
-  {
-    "objectID": "blog/posts/2019-workshop-epidemiological-analysis/index.html",
-    "href": "blog/posts/2019-workshop-epidemiological-analysis/index.html",
-    "title": "[ES] Epidemiological analysis in R",
-    "section": "",
-    "text": "I delivered a workshop in Spanish on epidemiological analysis in R, as part of the course Epidemiological Analysis using R. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/epistat2019/r02.html\n🍲 repo: https://avallecam.github.io/epistat2019/"
-  },
-  {
-    "objectID": "blog/posts/2019-workshop-linear-models/index.html",
-    "href": "blog/posts/2019-workshop-linear-models/index.html",
-    "title": "[ES] Linear models in R",
-    "section": "",
-    "text": "I delivered a workshop in Spanish on linear models in R, as part of the course Epidemiological Analysis using R. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/epistat2019/r01.html\n🍲 repo: https://avallecam.github.io/epistat2019/"
-  },
-  {
-    "objectID": "blog/posts/2016-lecture-tardigrades-bioinformatics-horizontal-gene-transfer/index.html",
-    "href": "blog/posts/2016-lecture-tardigrades-bioinformatics-horizontal-gene-transfer/index.html",
-    "title": "[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer",
-    "section": "",
-    "text": "I delivered a lecture in Spanish on tardigrades and bioinformatics in horizontal gene transfer, for an elective course in the Genetics and Biotechnology programme at UNMSM. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/tardigate2016"
+    "text": "[ES] Data analysis in epidemiological surveillance I: person, place, time and epidemic curve\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Visualizing public health and field epidemiology data\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to spatial analysis\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to the use of R projects\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nserosurvey: Serological Surveys and Prevalence Estimation Under Misclassification\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to R and Rstudio\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Data analysis in epidemiological surveillance II: spatial analysis\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to ggplot2\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to statistical analysis of epidemics\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Hypothesis testing with nonparametric statistical methods\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Causal questions for hypothetical interventions\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Algorithms for the detection of aberrations in epidemiological surveillance\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Analysis of #multiple epidemics and prevalences with R and purrr\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] cdcper: data report and visualization in CDC Peru using R\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\nHuman mobility and malaria history in a periurban community of the Peruvian Amazon\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Epidemiological analysis in R\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] R applied to epidemiology\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Inferential statistics in R\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Microarray analysis with Tidyverse and Bioconductor\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Linear models in R\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Reproducible Science and Microarray Analysis\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2017\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Gene regulatory networks using graph theory and finite automatas\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2017\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2016\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/2020-talk-analysis-multiple-epidemics-prevalences-purrr/index.html",
@@ -49,46 +14,32 @@
     "text": "I delivered a talk in Spanish at the Laboratorio de Innovación en Salud (BBS) on analysing multiple epidemics and prevalences with R and purrr. Materials are available below: slides and a video recording.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/bbslisepi\n🍿 video: https://youtu.be/mxX8tDmC45E"
   },
   {
-    "objectID": "blog/posts/2021-talk-introduction-spatial-analysis/index.html",
-    "href": "blog/posts/2021-talk-introduction-spatial-analysis/index.html",
-    "title": "[ES] Introduction to spatial analysis",
+    "objectID": "blog/posts/2019-workshop-linear-models/index.html",
+    "href": "blog/posts/2019-workshop-linear-models/index.html",
+    "title": "[ES] Linear models in R",
     "section": "",
-    "text": "I delivered a talk in Spanish introducing spatial analysis. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/espacial2021"
+    "text": "I delivered a workshop in Spanish on linear models in R, as part of the course Epidemiological Analysis using R. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/epistat2019/r01.html\n🍲 repo: https://avallecam.github.io/epistat2019/"
   },
   {
-    "objectID": "blog/posts/2019-talk-human-mobility-malaria-history-periurban/index.html",
-    "href": "blog/posts/2019-talk-human-mobility-malaria-history-periurban/index.html",
-    "title": "Human mobility and malaria history in a periurban community of the Peruvian Amazon",
+    "objectID": "blog/posts/2019-workshop-microarray-analysis-tidyverse-bioconductor/index.html",
+    "href": "blog/posts/2019-workshop-microarray-analysis-tidyverse-bioconductor/index.html",
+    "title": "[ES] Microarray analysis with Tidyverse and Bioconductor",
     "section": "",
-    "text": "I presented a poster at ASTMH on human mobility and malaria history in a periurban community of the Peruvian Amazon. Materials are available below: the poster and the code repository.\n\n\n\n\n\nLinks to materials:\n\n💾 poster: https://raw.githubusercontent.com/avallecam/movmal/master/poster/astmh_poster-ValleAA-20191116.jpg\n🍲 repo: https://github.com/avallecam/movmal"
+    "text": "I delivered a workshop in Spanish on microarray analysis with Tidyverse and Bioconductor. Materials are available below: the code repository.\n\nLinks to materials:\n\n🍲 repo: https://github.com/avallecam/bioinfo2019"
   },
   {
-    "objectID": "blog/posts/2019-talk-epidemiological-analysis-epidemic-guillain-barr/index.html",
-    "href": "blog/posts/2019-talk-epidemiological-analysis-epidemic-guillain-barr/index.html",
-    "title": "[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru",
+    "objectID": "blog/posts/2019-workshop-inferential-statistics/index.html",
+    "href": "blog/posts/2019-workshop-inferential-statistics/index.html",
+    "title": "[ES] Inferential statistics in R",
     "section": "",
-    "text": "I presented a poster in Spanish on the epidemiological analysis of the Guillain-Barré syndrome epidemic in Peru. Materials are available below: the poster and the code repository.\n\n\n\n\n\nLinks to materials:\n\n💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg\n🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/"
+    "text": "I delivered a workshop in Spanish on inferential statistics in R, as day 1 of an RNA-seq analysis course at CDC Peru. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html\n🍲 repo: https://avallecam.github.io/biostat2019/"
   },
   {
-    "objectID": "blog/posts/2019-talk-cdcper-data-report-visualization-cdc/index.html",
-    "href": "blog/posts/2019-talk-cdcper-data-report-visualization-cdc/index.html",
-    "title": "[ES] cdcper: data report and visualization in CDC Peru using R",
+    "objectID": "blog/posts/2020-lecture-algorithms-detection-aberrations-epidemiological-surveillance/index.html",
+    "href": "blog/posts/2020-lecture-algorithms-detection-aberrations-epidemiological-surveillance/index.html",
+    "title": "[ES] Algorithms for the detection of aberrations in epidemiological surveillance",
     "section": "",
-    "text": "I delivered a talk in Spanish on cdcper, an R package for data reporting and visualization at CDC Peru. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://speakerdeck.com/avallecam/cdcper-reporte-y-visualizacion-de-datos-en-cdc-peru-usando-r"
-  },
-  {
-    "objectID": "blog/posts/2020-talk-causal-questions-hypothetical-interventions/index.html",
-    "href": "blog/posts/2020-talk-causal-questions-hypothetical-interventions/index.html",
-    "title": "[ES] Causal questions for hypothetical interventions",
-    "section": "",
-    "text": "I delivered a talk in Spanish on causal questions for hypothetical interventions. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/casual_question"
-  },
-  {
-    "objectID": "blog/posts/2019-talk-changes-morbidity-mortality-profiles-peru/index.html",
-    "href": "blog/posts/2019-talk-changes-morbidity-mortality-profiles-peru/index.html",
-    "title": "[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package",
-    "section": "",
-    "text": "I presented an abstract in Spanish on changes in the morbidity and mortality profiles of Peru (2002-2016), with applications of R and the cdcper package. Materials are available below: the published abstract.\n\nLinks to materials:\n\n🍲 abstract: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178"
+    "text": "I delivered a lecture in Spanish on algorithms for detecting aberrations in epidemiological surveillance data. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html\n🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd"
   },
   {
     "objectID": "blog/posts/2021-talk-serosurvey-serological-surveys-prevalence-estimation/index.html",
@@ -98,18 +49,46 @@
     "text": "I delivered a talk at useR! 2021 on serosurvey, an R package for serological surveys and prevalence estimation under misclassification. Materials are available below: slides, a video recording and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/serosurvey-user21\n🍿 video: https://youtu.be/0mugb1mE68g\n🍲 repo: https://github.com/avallecam/serosurvey-user21"
   },
   {
-    "objectID": "blog/posts/2021-workshop-introduction-statistical-analysis-epidemics/index.html",
-    "href": "blog/posts/2021-workshop-introduction-statistical-analysis-epidemics/index.html",
-    "title": "[ES] Introduction to statistical analysis of epidemics",
+    "objectID": "blog/posts/2019-workshop-epidemiological-analysis/index.html",
+    "href": "blog/posts/2019-workshop-epidemiological-analysis/index.html",
+    "title": "[ES] Epidemiological analysis in R",
     "section": "",
-    "text": "I delivered a workshop in Spanish introducing the statistical analysis of epidemics, using real-time outbreak response practicals from RECON learn. Materials are available below: slides and a tutorial.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/cursoepidemias-analisisbrote\n⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html"
+    "text": "I delivered a workshop in Spanish on epidemiological analysis in R, as part of the course Epidemiological Analysis using R. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/epistat2019/r02.html\n🍲 repo: https://avallecam.github.io/epistat2019/"
   },
   {
-    "objectID": "blog/posts/2020-lecture-algorithms-detection-aberrations-epidemiological-surveillance/index.html",
-    "href": "blog/posts/2020-lecture-algorithms-detection-aberrations-epidemiological-surveillance/index.html",
-    "title": "[ES] Algorithms for the detection of aberrations in epidemiological surveillance",
+    "objectID": "blog/posts/2020-talk-causal-questions-hypothetical-interventions/index.html",
+    "href": "blog/posts/2020-talk-causal-questions-hypothetical-interventions/index.html",
+    "title": "[ES] Causal questions for hypothetical interventions",
     "section": "",
-    "text": "I delivered a lecture in Spanish on algorithms for detecting aberrations in epidemiological surveillance data. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/episurv2020/0101-surveillance.html\n🍲 repo: https://github.com/avallecam/episurv2020/blob/main/0101-surveillance.Rmd"
+    "text": "I delivered a talk in Spanish on causal questions for hypothetical interventions. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/casual_question"
+  },
+  {
+    "objectID": "blog/posts/2020-talk-hypothesis-testing-nonparametric-statistical-methods/index.html",
+    "href": "blog/posts/2020-talk-hypothesis-testing-nonparametric-statistical-methods/index.html",
+    "title": "[ES] Hypothesis testing with nonparametric statistical methods",
+    "section": "",
+    "text": "I delivered a talk in Spanish on hypothesis testing with nonparametric statistical methods. Materials are available below: slides and a video recording.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/noparam2020\n🍿 video: https://youtu.be/1MTt1Ro-OP4"
+  },
+  {
+    "objectID": "blog/posts/2016-lecture-tardigrades-bioinformatics-horizontal-gene-transfer/index.html",
+    "href": "blog/posts/2016-lecture-tardigrades-bioinformatics-horizontal-gene-transfer/index.html",
+    "title": "[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer",
+    "section": "",
+    "text": "I delivered a lecture in Spanish on tardigrades and bioinformatics in horizontal gene transfer, for an elective course in the Genetics and Biotechnology programme at UNMSM. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/tardigate2016"
+  },
+  {
+    "objectID": "blog/posts/2019-talk-epidemiological-analysis-epidemic-guillain-barr/index.html",
+    "href": "blog/posts/2019-talk-epidemiological-analysis-epidemic-guillain-barr/index.html",
+    "title": "[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru",
+    "section": "",
+    "text": "I presented a poster in Spanish on the epidemiological analysis of the Guillain-Barré syndrome epidemic in Peru. Materials are available below: the poster and the code repository.\n\n\n\n\n\nLinks to materials:\n\n💾 (better)poster: https://raw.githubusercontent.com/avallecam/cdcperu-gt_investigacion/master/20191120-poster-SGB-INSv3.jpg\n🍲 repo: https://avallecam.github.io/cdcperu-gt_investigacion/"
+  },
+  {
+    "objectID": "blog/posts/2021-lecture-visualizing-public-health-field-epidemiology/index.html",
+    "href": "blog/posts/2021-lecture-visualizing-public-health-field-epidemiology/index.html",
+    "title": "[ES] Visualizing public health and field epidemiology data",
+    "section": "",
+    "text": "I delivered a lecture in Spanish on visualizing public health and field epidemiology data. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/epiviz2021"
   },
   {
     "objectID": "index.html",
@@ -123,14 +102,14 @@
     "href": "bio.html",
     "title": "Bio",
     "section": "",
-    "text": "Currently\n\nPart-time technician at Applied Epi, supporting training for frontline epidemiologists.\n\nPreviously\n\nCommunity building and training at Epiverse-TRACE, developing tutorials and how-to guides for outbreak analytics.\nDeveloped and organised the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nAuthor of a geospatial visualization lesson with R for The GRAPH Network.\nConsultant in epidemiological research and surveillance at the National Center for Epidemiology (CDC Peru), including COVID-19 transmission and seroprevalence analyses."
+    "text": "Currently\n\nSupport training for frontline epidemiologists as a part-time technician at Applied Epi.\n\nPreviously\n\nDesigned the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nWrote tutorials and how-to guides on outbreak analytics for the Epiverse-TRACE initiative.\nAuthored a geospatial visualization lesson with R for The GRAPH Network.\nDesigned and analysed outbreak response studies at the National Center for Epidemiology (CDC Peru) on COVID-19 transmission and seroprevalence."
   },
   {
     "objectID": "bio.html#experience",
     "href": "bio.html#experience",
     "title": "Bio",
     "section": "",
-    "text": "Currently\n\nPart-time technician at Applied Epi, supporting training for frontline epidemiologists.\n\nPreviously\n\nCommunity building and training at Epiverse-TRACE, developing tutorials and how-to guides for outbreak analytics.\nDeveloped and organised the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nAuthor of a geospatial visualization lesson with R for The GRAPH Network.\nConsultant in epidemiological research and surveillance at the National Center for Epidemiology (CDC Peru), including COVID-19 transmission and seroprevalence analyses."
+    "text": "Currently\n\nSupport training for frontline epidemiologists as a part-time technician at Applied Epi.\n\nPreviously\n\nDesigned the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nWrote tutorials and how-to guides on outbreak analytics for the Epiverse-TRACE initiative.\nAuthored a geospatial visualization lesson with R for The GRAPH Network.\nDesigned and analysed outbreak response studies at the National Center for Epidemiology (CDC Peru) on COVID-19 transmission and seroprevalence."
   },
   {
     "objectID": "bio.html#education",
@@ -189,97 +168,6 @@
     "text": "Other contributions\n\nA code cheatsheet full of reproducible examples on GitHub Gist.\nAnswers for the Stack Overflow community.\nHelpful links on many topics in a public Trello board."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "[ES] Data analysis in epidemiological surveillance II: spatial analysis\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to statistical analysis of epidemics\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nserosurvey: Serological Surveys and Prevalence Estimation Under Misclassification\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to R and Rstudio\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Data analysis in epidemiological surveillance I: person, place, time and epidemic curve\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Visualizing public health and field epidemiology data\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to ggplot2\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to spatial analysis\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Introduction to the use of R projects\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Algorithms for the detection of aberrations in epidemiological surveillance\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Causal questions for hypothetical interventions\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Analysis of #multiple epidemics and prevalences with R and purrr\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Hypothesis testing with nonparametric statistical methods\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2020\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Microarray analysis with Tidyverse and Bioconductor\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] R applied to epidemiology\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] cdcper: data report and visualization in CDC Peru using R\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Inferential statistics in R\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Epidemiological analysis of the epidemic of Guillain Barré Syndrome in Peru\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\nHuman mobility and malaria history in a periurban community of the Peruvian Amazon\n\n\n\nTalk\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Linear models in R\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Epidemiological analysis in R\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2019\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Reproducible Science and Microarray Analysis\n\n\n\nWorkshop\n\n\n\n\n\n\n\n\n\n\n\n2017\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Gene regulatory networks using graph theory and finite automatas\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2017\n\n\n\n\n\n\n\n\n\n\n\n\n[ES] Tardigrades and Bioinformatics in Horizontal Gene Transfer\n\n\n\nLecture\n\n\n\n\n\n\n\n\n\n\n\n2016\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-ii/index.html",
-    "href": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-ii/index.html",
-    "title": "[ES] Data analysis in epidemiological surveillance II: spatial analysis",
-    "section": "",
-    "text": "I delivered a lecture in Spanish on data analysis in epidemiological surveillance, focused on spatial analysis. Materials are available below: slides and a tutorial.\n\nLinks to materials:\n\n🍭 slides: http://bit.ly/episurv2021parte2\n⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2"
-  },
-  {
-    "objectID": "blog/posts/2019-workshop-microarray-analysis-tidyverse-bioconductor/index.html",
-    "href": "blog/posts/2019-workshop-microarray-analysis-tidyverse-bioconductor/index.html",
-    "title": "[ES] Microarray analysis with Tidyverse and Bioconductor",
-    "section": "",
-    "text": "I delivered a workshop in Spanish on microarray analysis with Tidyverse and Bioconductor. Materials are available below: the code repository.\n\nLinks to materials:\n\n🍲 repo: https://github.com/avallecam/bioinfo2019"
-  },
-  {
-    "objectID": "blog/posts/2021-workshop-introduction-rstudio/index.html",
-    "href": "blog/posts/2021-workshop-introduction-rstudio/index.html",
-    "title": "[ES] Introduction to R and Rstudio",
-    "section": "",
-    "text": "I delivered a workshop in Spanish introducing R and RStudio, using an introductory practical from RECON learn. Materials are available below: slides and a tutorial.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/cursoepidemia-intror\n⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html"
-  },
-  {
-    "objectID": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-i/index.html",
-    "href": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-i/index.html",
-    "title": "[ES] Data analysis in epidemiological surveillance I: person, place, time and epidemic curve",
-    "section": "",
-    "text": "I delivered a lecture in Spanish on data analysis in epidemiological surveillance: person, place, time and the epidemic curve. Materials are available below: a tutorial and an extra tutorial.\n\nLinks to materials:\n\n⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1\n⚒️ extra: endemic channel https://rpubs.com/avallecam/episurv2021"
-  },
-  {
-    "objectID": "blog/posts/2019-talk-applied-epidemiology/index.html",
-    "href": "blog/posts/2019-talk-applied-epidemiology/index.html",
-    "title": "[ES] R applied to epidemiology",
-    "section": "",
-    "text": "I delivered a talk in Spanish on R applied to epidemiology during the Semana de la Epidemiología (Epidemiology Week), September 2019. Materials are available below: slides, a video recording and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia\n🍿 video: https://youtu.be/C3Yqw883jrs\n🍲 repo: https://avallecam.github.io/epiapli2019/"
-  },
-  {
-    "objectID": "blog/posts/2019-workshop-inferential-statistics/index.html",
-    "href": "blog/posts/2019-workshop-inferential-statistics/index.html",
-    "title": "[ES] Inferential statistics in R",
-    "section": "",
-    "text": "I delivered a workshop in Spanish on inferential statistics in R, as day 1 of an RNA-seq analysis course at CDC Peru. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://avallecam.github.io/biostat2019/00-biostat2019-slides.html\n🍲 repo: https://avallecam.github.io/biostat2019/"
-  },
-  {
-    "objectID": "blog/posts/2021-lecture-visualizing-public-health-field-epidemiology/index.html",
-    "href": "blog/posts/2021-lecture-visualizing-public-health-field-epidemiology/index.html",
-    "title": "[ES] Visualizing public health and field epidemiology data",
-    "section": "",
-    "text": "I delivered a lecture in Spanish on visualizing public health and field epidemiology data. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/epiviz2021"
-  },
-  {
-    "objectID": "blog/posts/2021-workshop-introduction-ggplot2/index.html",
-    "href": "blog/posts/2021-workshop-introduction-ggplot2/index.html",
-    "title": "[ES] Introduction to ggplot2",
-    "section": "",
-    "text": "I delivered a workshop in Spanish introducing data visualization with ggplot2. Materials are available below: slides, a video recording and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/r08ggplot2\n🍿 video: https://youtu.be/waE31-OG8Ho\n🍲 repo: https://github.com/avallecam/workshop_ggplot2"
-  },
-  {
-    "objectID": "blog/posts/2017-workshop-reproducible-science-microarray-analysis/index.html",
-    "href": "blog/posts/2017-workshop-reproducible-science-microarray-analysis/index.html",
-    "title": "[ES] Reproducible Science and Microarray Analysis",
-    "section": "",
-    "text": "I delivered a workshop in Spanish on reproducible science and microarray analysis, as part of a theory-and-practice Bioinformatics course. Materials are available below: slides, a tutorial and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/reproscience-intro\n⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html\n🍲 repo: https://avallecam.github.io/bioinfo2017/"
-  },
-  {
-    "objectID": "blog/posts/2021-workshop-introduction-use-projects/index.html",
-    "href": "blog/posts/2021-workshop-introduction-use-projects/index.html",
-    "title": "[ES] Introduction to the use of R projects",
-    "section": "",
-    "text": "I delivered a workshop in Spanish on project management with R projects, as part of the CDC Peru introductory R course. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/r02proyectos\n🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html"
-  },
-  {
-    "objectID": "blog/posts/2020-talk-hypothesis-testing-nonparametric-statistical-methods/index.html",
-    "href": "blog/posts/2020-talk-hypothesis-testing-nonparametric-statistical-methods/index.html",
-    "title": "[ES] Hypothesis testing with nonparametric statistical methods",
-    "section": "",
-    "text": "I delivered a talk in Spanish on hypothesis testing with nonparametric statistical methods. Materials are available below: slides and a video recording.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/noparam2020\n🍿 video: https://youtu.be/1MTt1Ro-OP4"
-  },
-  {
-    "objectID": "blog/posts/2017-lecture-gene-regulatory-networks-graph-theory/index.html",
-    "href": "blog/posts/2017-lecture-gene-regulatory-networks-graph-theory/index.html",
-    "title": "[ES] Gene regulatory networks using graph theory and finite automatas",
-    "section": "",
-    "text": "I delivered lectures in Spanish on gene regulatory networks using graph theory and finite automata, for the Biomathematics course at UNMSM (2015-2017). Materials are available below: slides, a tutorial and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/biomath2017_\n⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb\n🍲 repo: https://github.com/avallecam/gene_regulatory_networks"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -299,5 +187,117 @@
     "title": "Publications",
     "section": "Academic publications",
     "text": "Academic publications\nThe full list is available on  ORCID and  Google Scholar.\n\n\n\n\n\n\n\n\n\n\n\nTitle\nJournal\nYear\nCitations\n\n\n\n\nUnravelling heterogeneous malaria transmission dynamics in the Peruvian Amazon: insights from a cross-sectional survey\nMalaria Journal\n2024\n8\n\n\nClinical features of Guillain–Barré syndrome and factors associated with mortality during the 2019 outbreak in Peru\nJournal of Neurology\n2022\n10\n\n\nPerfiles hematológicos en pacientes infectados con malaria en un área endémica del Perú\nRevista Peruana de Medicina Experimental y Salud Publica\n2022\n1\n\n\nSARS-CoV-2 prevalence associated to low socioeconomic status and overcrowding in an LMIC megacity: A population-based seroepidemiological survey in Lima, Peru\nEClinicalMedicine\n2021\n90\n\n\nMetodologías cuantitativas: Cálculo del tamaño de muestra con STATA y R\nRevista del Cuerpo Médico del HNAAA\n2020\n153\n\n\nEarly transmission dynamics of COVID-19 in a southern hemisphere setting: Lima-Peru: February 29th–March 30th, 2020.\nInfectious Disease Modelling\n2020\n121\n\n\nMalaria Transmission and Spillover across the Peru–Ecuador Border: A Spatiotemporal Analysis\nInternational Journal of Environmental Research and Public Health\n2020\n35\n\n\nRecomendaciones para describir de forma adecuada una curva epidémica de COVID-19\nRevista Peruana de Medicina Experimental y Salud Pública\n2020\n6\n\n\nIgG subclass responses to excreted-secreted antigens of Plasmodium falciparum in a low-transmission malaria area of the Peruvian Amazon\nMalaria journal\n2018\n14"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I was a swimmer (lane #5);\nI have a playlist of peruvian music;\nI occasionally play guitar and piano;\nI appreciate visiting art galleries, unexpected findings occur;\nI got curious on physical biology after: goodwin, bejan, leibler;\nI enjoy reading dialectical materialism: politzer, fromm, engels;\nI love reading poetic literature: oswaldo reynoso, martin adan;\nI like listening to radiohead, apparat, niños sin smartphones;\nI also like listening to domΔ and the peruvian avant trap!\nI am learning to design accessible outputs."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I was a swimmer (lane #5);\nI have a playlist of peruvian music;\nI occasionally play guitar and piano;\nI appreciate visiting art galleries, unexpected findings occur;\nI got curious on physical biology after: goodwin, bejan, leibler;\nI enjoy reading dialectical materialism: politzer, fromm, engels;\nI love reading poetic literature: oswaldo reynoso, martin adan;\nI like listening to radiohead, apparat, niños sin smartphones;\nI also like listening to domΔ and the peruvian avant trap!\nI am learning to design accessible outputs."
+  },
+  {
+    "objectID": "about.html#why-avallecam",
+    "href": "about.html#why-avallecam",
+    "title": "About",
+    "section": "Why “avallecam”?",
+    "text": "Why “avallecam”?\n\nStands for andree valle campos.\nI intentionally used cam because of my #tusan"
+  },
+  {
+    "objectID": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-i/index.html",
+    "href": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-i/index.html",
+    "title": "[ES] Data analysis in epidemiological surveillance I: person, place, time and epidemic curve",
+    "section": "",
+    "text": "I delivered a lecture in Spanish on data analysis in epidemiological surveillance: person, place, time and the epidemic curve. Materials are available below: a tutorial and an extra tutorial.\n\nLinks to materials:\n\n⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte1\n⚒️ extra: endemic channel https://rpubs.com/avallecam/episurv2021"
+  },
+  {
+    "objectID": "blog/posts/2019-talk-cdcper-data-report-visualization-cdc/index.html",
+    "href": "blog/posts/2019-talk-cdcper-data-report-visualization-cdc/index.html",
+    "title": "[ES] cdcper: data report and visualization in CDC Peru using R",
+    "section": "",
+    "text": "I delivered a talk in Spanish on cdcper, an R package for data reporting and visualization at CDC Peru. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://speakerdeck.com/avallecam/cdcper-reporte-y-visualizacion-de-datos-en-cdc-peru-usando-r"
+  },
+  {
+    "objectID": "blog/posts/2017-workshop-reproducible-science-microarray-analysis/index.html",
+    "href": "blog/posts/2017-workshop-reproducible-science-microarray-analysis/index.html",
+    "title": "[ES] Reproducible Science and Microarray Analysis",
+    "section": "",
+    "text": "I delivered a workshop in Spanish on reproducible science and microarray analysis, as part of a theory-and-practice Bioinformatics course. Materials are available below: slides, a tutorial and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/reproscience-intro\n⚒️ tutorial: https://avallecam.github.io/bioinfo2017/biocmicro.nb.html\n🍲 repo: https://avallecam.github.io/bioinfo2017/"
+  },
+  {
+    "objectID": "blog/posts/2017-lecture-gene-regulatory-networks-graph-theory/index.html",
+    "href": "blog/posts/2017-lecture-gene-regulatory-networks-graph-theory/index.html",
+    "title": "[ES] Gene regulatory networks using graph theory and finite automatas",
+    "section": "",
+    "text": "I delivered lectures in Spanish on gene regulatory networks using graph theory and finite automata, for the Biomathematics course at UNMSM (2015-2017). Materials are available below: slides, a tutorial and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/biomath2017_\n⚒️ tutorial: https://github.com/avallecam/gene_regulatory_networks/blob/main/GRN_py/UNAM_mat2.ipynb\n🍲 repo: https://github.com/avallecam/gene_regulatory_networks"
+  },
+  {
+    "objectID": "blog/posts/2019-talk-human-mobility-malaria-history-periurban/index.html",
+    "href": "blog/posts/2019-talk-human-mobility-malaria-history-periurban/index.html",
+    "title": "Human mobility and malaria history in a periurban community of the Peruvian Amazon",
+    "section": "",
+    "text": "I presented a poster at ASTMH on human mobility and malaria history in a periurban community of the Peruvian Amazon. Materials are available below: the poster and the code repository.\n\n\n\n\n\nLinks to materials:\n\n💾 poster: https://raw.githubusercontent.com/avallecam/movmal/master/poster/astmh_poster-ValleAA-20191116.jpg\n🍲 repo: https://github.com/avallecam/movmal"
+  },
+  {
+    "objectID": "blog/posts/2021-talk-introduction-spatial-analysis/index.html",
+    "href": "blog/posts/2021-talk-introduction-spatial-analysis/index.html",
+    "title": "[ES] Introduction to spatial analysis",
+    "section": "",
+    "text": "I delivered a talk in Spanish introducing spatial analysis. Materials are available below: slides.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/espacial2021"
+  },
+  {
+    "objectID": "blog/posts/2021-workshop-introduction-use-projects/index.html",
+    "href": "blog/posts/2021-workshop-introduction-use-projects/index.html",
+    "title": "[ES] Introduction to the use of R projects",
+    "section": "",
+    "text": "I delivered a workshop in Spanish on project management with R projects, as part of the CDC Peru introductory R course. Materials are available below: slides and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/r02proyectos\n🍲 repo: https://cdcperucursos.github.io/cursorcdc1.html"
+  },
+  {
+    "objectID": "blog/posts/2021-workshop-introduction-rstudio/index.html",
+    "href": "blog/posts/2021-workshop-introduction-rstudio/index.html",
+    "title": "[ES] Introduction to R and Rstudio",
+    "section": "",
+    "text": "I delivered a workshop in Spanish introducing R and RStudio, using an introductory practical from RECON learn. Materials are available below: slides and a tutorial.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/cursoepidemia-intror\n⚒️ tutorial: https://www.reconlearn.org/post/practical-intror-spanish.html"
+  },
+  {
+    "objectID": "blog/posts/2019-talk-applied-epidemiology/index.html",
+    "href": "blog/posts/2019-talk-applied-epidemiology/index.html",
+    "title": "[ES] R applied to epidemiology",
+    "section": "",
+    "text": "I delivered a talk in Spanish on R applied to epidemiology during the Semana de la Epidemiología (Epidemiology Week), September 2019. Materials are available below: slides, a video recording and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://speakerdeck.com/avallecam/r-aplicado-a-epidemiologia\n🍿 video: https://youtu.be/C3Yqw883jrs\n🍲 repo: https://avallecam.github.io/epiapli2019/"
+  },
+  {
+    "objectID": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-ii/index.html",
+    "href": "blog/posts/2021-lecture-data-analysis-epidemiological-surveillance-ii/index.html",
+    "title": "[ES] Data analysis in epidemiological surveillance II: spatial analysis",
+    "section": "",
+    "text": "I delivered a lecture in Spanish on data analysis in epidemiological surveillance, focused on spatial analysis. Materials are available below: slides and a tutorial.\n\nLinks to materials:\n\n🍭 slides: http://bit.ly/episurv2021parte2\n⚒️ tutorial: https://rpubs.com/avallecam/episurv2021parte2"
+  },
+  {
+    "objectID": "blog/posts/2021-workshop-introduction-ggplot2/index.html",
+    "href": "blog/posts/2021-workshop-introduction-ggplot2/index.html",
+    "title": "[ES] Introduction to ggplot2",
+    "section": "",
+    "text": "I delivered a workshop in Spanish introducing data visualization with ggplot2. Materials are available below: slides, a video recording and the code repository.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/r08ggplot2\n🍿 video: https://youtu.be/waE31-OG8Ho\n🍲 repo: https://github.com/avallecam/workshop_ggplot2"
+  },
+  {
+    "objectID": "blog/posts/2021-workshop-introduction-statistical-analysis-epidemics/index.html",
+    "href": "blog/posts/2021-workshop-introduction-statistical-analysis-epidemics/index.html",
+    "title": "[ES] Introduction to statistical analysis of epidemics",
+    "section": "",
+    "text": "I delivered a workshop in Spanish introducing the statistical analysis of epidemics, using real-time outbreak response practicals from RECON learn. Materials are available below: slides and a tutorial.\n\nLinks to materials:\n\n🍭 slides: https://bit.ly/cursoepidemias-analisisbrote\n⚒️ tutorial: https://www.reconlearn.org/post/real-time-response-1-spanish.html"
+  },
+  {
+    "objectID": "blog/posts/2019-talk-changes-morbidity-mortality-profiles-peru/index.html",
+    "href": "blog/posts/2019-talk-changes-morbidity-mortality-profiles-peru/index.html",
+    "title": "[abstract][ES] Changes in the morbidity and mortality profiles in Peru (2002-2016). Aplications with R and cdcper R package",
+    "section": "",
+    "text": "I presented an abstract in Spanish on changes in the morbidity and mortality profiles of Peru (2002-2016), with applications of R and the cdcper package. Materials are available below: the published abstract.\n\nLinks to materials:\n\n🍲 abstract: https://rpmesp.ins.gob.pe/rpmesp/article/view/5178"
   }
 ]
