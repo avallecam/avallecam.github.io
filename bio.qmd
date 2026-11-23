@@ -13,7 +13,7 @@ title: "Bio"
 - Designed the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM).
 - Wrote tutorials and how-to guides on outbreak analytics for the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) initiative.
 - Authored a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for The GRAPH Network.
-- Designed and analysed outbreak response studies at the National Center for Epidemiology (CDC Peru) on [COVID-19 transmission](https://pubmed.ncbi.nlm.nih.gov/32399507/) and [seroprevalence](https://pubmed.ncbi.nlm.nih.gov/33817611/).
+- Analysed data for a [COVID-19 transmission](https://pubmed.ncbi.nlm.nih.gov/32399507/) study and designed the statistical analysis plan for a [seroprevalence](https://pubmed.ncbi.nlm.nih.gov/33817611/) survey at the National Center for Epidemiology (CDC Peru).
 
 <!--
 - Developed the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
