@@ -23,10 +23,10 @@ title: "Resources"
 I contribute to packages and learning materials that help field epidemiologists analyse outbreak data in R:
 
 - **[Epiverse-TRACE](https://epiverse-trace.github.io/)**: an ecosystem of R packages for outbreak analytics. I co-developed its [learning materials](https://epiverse-trace.github.io/learn.html):
-  - [Reading and cleaning data for outbreak analytics with R](https://epiverse-trace.github.io/tutorials-early/)
-  - [Real-time analysis and forecasting for outbreak analytics with R](https://epiverse-trace.github.io/tutorials-middle/)
-  - [Scenario modelling for outbreak analytics with R](https://epiverse-trace.github.io/tutorials-late/)
-  - [How-to guides for outbreak analytics with R](https://epiverse-trace.github.io/howto/)
+  - Reading, cleaning, validating, and aggregating data ([tutorials-early](https://epiverse-trace.github.io/tutorials-early/))
+  - Real-time analysis, forecasting, and superspreading ([tutorials-middle](https://epiverse-trace.github.io/tutorials-middle/))
+  - Scenario modelling, contact matrices, and disease burden ([tutorials-late](https://epiverse-trace.github.io/tutorials-late/))
+  - [How-to guides](https://epiverse-trace.github.io/howto/) for outbreak analytics with R
 - **[ENDES.PE](https://github.com/horaciochacon/ENDES.PE)**: access and analyse data from Peru's Demographic and Family Health Survey (ENDES).
 
 ## Dashboards
