@@ -10,11 +10,11 @@ title: "Bio"
 
 **Previously**
 
-- Designed the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM).
-- Wrote tutorials and how-to guides on outbreak analytics for the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) initiative.
-- Authored a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for The GRAPH Network.
-- Coordinated an international [outbreak analysis course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in Latin America.
-- Analysed data for a [COVID-19 transmission](https://pubmed.ncbi.nlm.nih.gov/32399507/) study and designed the statistical analysis plan for a [seroprevalence](https://pubmed.ncbi.nlm.nih.gov/33817611/) survey at the National Center for Epidemiology (CDC Peru).
+- Designed the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (**LSHTM**).
+- Wrote [tutorials and how-to guides on outbreak analytics](https://epiverse-trace.github.io/learn) for the **Epiverse-TRACE** initiative.
+- Authored an [introduction to geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson in R for **The GRAPH Network**.
+- Coordinated an international [outbreak analysis, modelling, and response in public health course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in Latin America.
+- Analysed data for a [COVID-19 transmission](https://pubmed.ncbi.nlm.nih.gov/32399507/) study and designed the statistical analysis plan for a [seroprevalence](https://pubmed.ncbi.nlm.nih.gov/33817611/) survey at the National Center for Epidemiology (**CDC Peru**).
 
 ## Education
 
