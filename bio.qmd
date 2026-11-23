@@ -6,18 +6,18 @@ title: "Bio"
 
 **Currently**
 
-- Part-time technician at [Applied Epi](https://www.appliedepi.org), supporting training for frontline epidemiologists.
+- Support training for frontline epidemiologists as a part-time technician at [Applied Epi](https://www.appliedepi.org).
 
 **Previously**
 
-- Community building and training at [Epiverse-TRACE](https://data.org/initiatives/epiverse/), developing tutorials and how-to guides for outbreak analytics.
-- Developed and organised the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM).
-- Author of a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for The GRAPH Network.
-- Consultant in epidemiological research and surveillance at the [National Center for Epidemiology (CDC Peru)](https://www.dge.gob.pe/), including COVID-19 transmission and seroprevalence analyses.
+- Designed the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM).
+- Wrote tutorials and how-to guides on outbreak analytics for the [Epiverse-TRACE](https://data.org/initiatives/epiverse/) initiative.
+- Authored a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for The GRAPH Network.
+- Designed and analysed outbreak response studies at the National Center for Epidemiology (CDC Peru) on [COVID-19 transmission](https://pubmed.ncbi.nlm.nih.gov/32399507/) and [seroprevalence](https://pubmed.ncbi.nlm.nih.gov/33817611/).
 
 <!--
-- Developer of the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
-- Coordinator of an international [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in Latin America.
+- Developed the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
+- Coordinated an international [outbreak analysis](https://www.reconlearn.org/topics/spanish.html) [course](https://www.dge.gob.pe/portalnuevo/informativo/prensa/curso-internacional-en-analisis-de-brotes-modelamiento-y-respuesta-en-salud-publica/) in Latin America.
 -->
 
 ## Education
