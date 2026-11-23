@@ -4,9 +4,16 @@ title: "Bio"
 
 ## Experience
 
-- Community building and training at [Epiverse-TRACE](https://data.org/initiatives/epiverse/), developing tutorials and how-to guides for outbreak analytics (completed).
-- Developed and organised the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM) (completed).
+**Currently**
+
+- Part-time technician at [Applied Epi](https://www.appliedepi.org), supporting training for frontline epidemiologists.
+
+**Previously**
+
+- Community building and training at [Epiverse-TRACE](https://data.org/initiatives/epiverse/), developing tutorials and how-to guides for outbreak analytics.
+- Developed and organised the short course on [outbreak analytics and applied modelling in R](https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R) at the London School of Hygiene & Tropical Medicine (LSHTM).
 - Author of a [geospatial visualization](https://thegraphcourses.org/courses/geospatial-viz/) lesson with R for The GRAPH Network.
+- Consultant in epidemiological research and surveillance at the [National Center for Epidemiology (CDC Peru)](https://www.dge.gob.pe/), including COVID-19 transmission and seroprevalence analyses.
 
 <!--
 - Developer of the [serosurvey](https://avallecam.github.io/serosurvey/) R package.
