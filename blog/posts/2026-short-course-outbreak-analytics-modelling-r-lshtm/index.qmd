@@ -15,3 +15,4 @@ Links to materials:
 
 - 🎓 course page: https://www.lshtm.ac.uk/study/courses/short-courses/outbreaks-analytics-R
 - 📘 tutorials: https://epiverse-trace.github.io/learn
+- 🗺️ figure code: https://github.com/avallecam/epicatador/blob/main/985-promo-soar-2025-2026.R
