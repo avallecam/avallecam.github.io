@@ -102,14 +102,14 @@
     "href": "bio.html",
     "title": "Bio",
     "section": "",
-    "text": "Currently\n\nSupport training for frontline epidemiologists as a part-time technician at Applied Epi.\n\nPreviously\n\nDesigned the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nWrote tutorials and how-to guides on outbreak analytics for the Epiverse-TRACE initiative.\nAuthored an introduction to geospatial visualization lesson in R for The GRAPH Network.\nPublished outbreak response research on COVID-19 transmission and seroprevalence with the National Center for Epidemiology (CDC Peru)."
+    "text": "Currently\n\nSupport training for frontline epidemiologists as a part-time technician at Applied Epi.\n\nPreviously\n\nDesigned the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nWrote tutorials and how-to guides on outbreak analytics for the Epiverse-TRACE initiative.\nAuthored an introduction to geospatial visualization lesson in R for The GRAPH Network.\nPublished outbreak response research on COVID-19 transmission and seroprevalence with the National Center for Epidemiology (CDC Peru).\n\nFind my workshops, lectures and talks on the blog."
   },
   {
     "objectID": "bio.html#experience",
     "href": "bio.html#experience",
     "title": "Bio",
     "section": "",
-    "text": "Currently\n\nSupport training for frontline epidemiologists as a part-time technician at Applied Epi.\n\nPreviously\n\nDesigned the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nWrote tutorials and how-to guides on outbreak analytics for the Epiverse-TRACE initiative.\nAuthored an introduction to geospatial visualization lesson in R for The GRAPH Network.\nPublished outbreak response research on COVID-19 transmission and seroprevalence with the National Center for Epidemiology (CDC Peru)."
+    "text": "Currently\n\nSupport training for frontline epidemiologists as a part-time technician at Applied Epi.\n\nPreviously\n\nDesigned the short course on outbreak analytics and applied modelling in R at the London School of Hygiene & Tropical Medicine (LSHTM).\nWrote tutorials and how-to guides on outbreak analytics for the Epiverse-TRACE initiative.\nAuthored an introduction to geospatial visualization lesson in R for The GRAPH Network.\nPublished outbreak response research on COVID-19 transmission and seroprevalence with the National Center for Epidemiology (CDC Peru).\n\nFind my workshops, lectures and talks on the blog."
   },
   {
     "objectID": "bio.html#education",
@@ -137,14 +137,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Package\nDescription\nStatus\n\n\n\n\nserosurvey\nEstimate prevalences from serological surveys\nStable\n\n\ncovid19viz\nAccess COVID-19 data\nStable\n\n\npowder\nTidy power analysis\nStable\n\n\ncdcper\nFunctions for CDC Perú\nStable\n\n\nepichannel\nCreate endemic channels\nStable\n\n\nepitidy\nTable and model outputs\nStable\n\n\nincidenceflow\nEpidemic workflows\nIn development\n\n\nsitreper\nSituational reports in Peru\nIn development\n\n\nepihelper\nCustom helper functions\nIn development\n\n\n\n\n\n\nI contribute to packages and learning materials that help field epidemiologists analyse outbreak data in R:\n\nEpiverse-TRACE: an ecosystem of R packages for outbreak analytics. I co-led the development of its learning materials:\n\nReading, cleaning, validating, and aggregating data (tutorials-early)\nReal-time analysis, forecasting, and superspreading (tutorials-middle)\nScenario modelling, contact matrices, and disease burden (tutorials-late)\nHow-to guides for outbreak analytics with R\n\nENDES.PE: access and analyse data from Peru’s Demographic and Family Health Survey (ENDES)."
+    "text": "Package\nDescription\nStatus\n\n\n\n\nserosurvey\nEstimate prevalences from serological surveys\nStable\n\n\ncovid19viz\nAccess COVID-19 data\nStable\n\n\npowder\nTidy power analysis\nStable\n\n\ncdcper\nFunctions for CDC Perú\nStable\n\n\nepichannel\nCreate endemic channels\nStable\n\n\nepitidy\nTable and model outputs\nStable\n\n\nincidenceflow\nEpidemic workflows\nIn development\n\n\nsitreper\nSituational reports in Peru\nIn development\n\n\nepihelper\nCustom helper functions\nIn development\n\n\n\n\n\n\nI contribute to packages and learning materials that help field epidemiologists analyse outbreak data in R:\n\nEpiverse-TRACE: an ecosystem of R packages for outbreak analytics. I co-led the development of its learning materials:\n\nReading, cleaning, validating, and aggregating data (tutorials-early)\nReal-time analysis, forecasting, and superspreading (tutorials-middle)\nScenario modelling, contact matrices, and disease burden (tutorials-late)\nHow-to guides for outbreak analytics with R\n\nENDES.PE: access and analyse data from Peru’s Demographic and Family Health Survey (ENDES).\n\nTeaching materials from my workshops and lectures are on the blog."
   },
   {
     "objectID": "resources.html#r-packages",
     "href": "resources.html#r-packages",
     "title": "Resources",
     "section": "",
-    "text": "Package\nDescription\nStatus\n\n\n\n\nserosurvey\nEstimate prevalences from serological surveys\nStable\n\n\ncovid19viz\nAccess COVID-19 data\nStable\n\n\npowder\nTidy power analysis\nStable\n\n\ncdcper\nFunctions for CDC Perú\nStable\n\n\nepichannel\nCreate endemic channels\nStable\n\n\nepitidy\nTable and model outputs\nStable\n\n\nincidenceflow\nEpidemic workflows\nIn development\n\n\nsitreper\nSituational reports in Peru\nIn development\n\n\nepihelper\nCustom helper functions\nIn development\n\n\n\n\n\n\nI contribute to packages and learning materials that help field epidemiologists analyse outbreak data in R:\n\nEpiverse-TRACE: an ecosystem of R packages for outbreak analytics. I co-led the development of its learning materials:\n\nReading, cleaning, validating, and aggregating data (tutorials-early)\nReal-time analysis, forecasting, and superspreading (tutorials-middle)\nScenario modelling, contact matrices, and disease burden (tutorials-late)\nHow-to guides for outbreak analytics with R\n\nENDES.PE: access and analyse data from Peru’s Demographic and Family Health Survey (ENDES)."
+    "text": "Package\nDescription\nStatus\n\n\n\n\nserosurvey\nEstimate prevalences from serological surveys\nStable\n\n\ncovid19viz\nAccess COVID-19 data\nStable\n\n\npowder\nTidy power analysis\nStable\n\n\ncdcper\nFunctions for CDC Perú\nStable\n\n\nepichannel\nCreate endemic channels\nStable\n\n\nepitidy\nTable and model outputs\nStable\n\n\nincidenceflow\nEpidemic workflows\nIn development\n\n\nsitreper\nSituational reports in Peru\nIn development\n\n\nepihelper\nCustom helper functions\nIn development\n\n\n\n\n\n\nI contribute to packages and learning materials that help field epidemiologists analyse outbreak data in R:\n\nEpiverse-TRACE: an ecosystem of R packages for outbreak analytics. I co-led the development of its learning materials:\n\nReading, cleaning, validating, and aggregating data (tutorials-early)\nReal-time analysis, forecasting, and superspreading (tutorials-middle)\nScenario modelling, contact matrices, and disease burden (tutorials-late)\nHow-to guides for outbreak analytics with R\n\nENDES.PE: access and analyse data from Peru’s Demographic and Family Health Survey (ENDES).\n\nTeaching materials from my workshops and lectures are on the blog."
   },
   {
     "objectID": "resources.html#dashboards",
@@ -180,6 +180,13 @@
     "title": "Publications",
     "section": "",
     "text": "[Editorial, Spanish] Health Data Science: Applications at CDC Perú (2019)\n[Opinion, Spanish] Data and transparency to fight against the coronavirus (2020)"
+  },
+  {
+    "objectID": "publications.html#talks",
+    "href": "publications.html#talks",
+    "title": "Publications",
+    "section": "Talks",
+    "text": "Talks\nSlides and recordings of my talks are collected on the blog."
   },
   {
     "objectID": "publications.html#academic-publications",
