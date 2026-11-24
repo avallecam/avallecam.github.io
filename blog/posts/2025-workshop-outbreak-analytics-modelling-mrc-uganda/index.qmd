@@ -1,0 +1,15 @@
+---
+title: "Outbreak analytics and applied modelling with R (MRC/UVRI & LSHTM Uganda)"
+date: "2025-08-11"
+categories: [Workshop]
+image: ../../../figure/2025-mrc-uganda-poster.jpg
+---
+
+I was the lead instructor of a two-week, hands-on capacity-building workshop on outbreak analytics and applied modelling with R, hosted by the MRC/UVRI & LSHTM Uganda Research Unit in Entebbe, Uganda, from 11 to 22 August 2025. Participants used Epiverse-TRACE tools to investigate and respond to disease outbreaks. Materials are available below: tutorials.
+
+![](../../../figure/2025-mrc-uganda-group-photo.jpg){ width=100% }
+
+Links to materials:
+
+- 📘 tutorials: https://epiverse-trace.github.io/learn
+- 💬 MRC Uganda call for applications: https://x.com/MRC_Uganda/status/1932699086987071498
