@@ -29,6 +29,8 @@ I contribute to packages and learning materials that help field epidemiologists 
   - [How-to guides](https://epiverse-trace.github.io/howto/) for outbreak analytics with R
 - **[ENDES.PE](https://github.com/horaciochacon/ENDES.PE)**: access and analyse data from Peru's Demographic and Family Health Survey (ENDES).
 
+Teaching materials from my [workshops](blog/index.qmd#category=Workshop) and [lectures](blog/index.qmd#category=Lecture) are on the [blog](blog/index.qmd).
+
 ## Dashboards
 
 - Disease surveillance: <https://avallecam.github.io/shiny-server/per/index.html>

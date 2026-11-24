@@ -7,6 +7,10 @@ title: "Publications"
 - **[Editorial, Spanish]** [Health Data Science: Applications at CDC Perú](https://avallecam.github.io/health_data_science_editorial/) (2019)
 - **[Opinion, Spanish]** [Data and transparency to fight against the coronavirus](https://ojo-publico.com/1718/datos-y-transparencia-para-luchar-contra-el-coronavirus) (2020)
 
+## Talks
+
+Slides and recordings of my [talks](blog/index.qmd#category=Talk) are collected on the [blog](blog/index.qmd).
+
 ## Academic publications
 
 The full list is available on {{< ai orcid >}} [ORCID](https://orcid.org/0000-0002-7779-481X) and {{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=p1Tq4esAAAAJ).
