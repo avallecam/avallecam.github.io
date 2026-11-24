@@ -1,6 +1,6 @@
 ---
 title: "Outbreak Analytics and Applied Modelling in R: LSHTM short course"
-date: "2026-11-24"
+date: "2026-09-30"
 categories: [Workshop]
 image: ../../../figure/2026-lshtm-short-course-outbreak-analytics.png
 ---
