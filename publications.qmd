@@ -33,3 +33,8 @@ scholar::get_publications(id) %>%
   ) %>%
   knitr::kable()
 ```
+
+::: {.vitae-nav}
+[← Bio](bio.qmd){.btn .btn-outline-primary}
+[Resources →](resources.qmd){.btn .btn-outline-primary}
+:::

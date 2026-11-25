@@ -49,3 +49,8 @@ Teaching materials from my [workshops](blog/index.qmd#category=Workshop) and [le
 - A code **cheatsheet** full of reproducible examples on [GitHub Gist](https://gist.github.com/avallecam).
 - **Answers** for the [Stack Overflow](https://stackoverflow.com/users/6702544/avallecam) community.
 - Helpful **links** on many topics in a public [Trello board](https://trello.com/b/xtO9VP36/scibites).
+
+::: {.vitae-nav}
+[← Publications](publications.qmd){.btn .btn-outline-primary}
+<span></span>
+:::

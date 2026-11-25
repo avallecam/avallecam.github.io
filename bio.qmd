@@ -36,3 +36,8 @@ Find my [workshops](blog/index.qmd#category=Workshop), [lectures](blog/index.qmd
 - Get in touch about **`R` in epidemiology**, **data science education**, and **applied modelling**.
 - Email: [andree.valle-campos@outlook.com](mailto:andree.valle-campos@outlook.com)
 - LinkedIn: [avallecam](https://www.linkedin.com/in/avallecam/)
+
+::: {.vitae-nav}
+<span></span>
+[Publications →](publications.qmd){.btn .btn-outline-primary}
+:::
