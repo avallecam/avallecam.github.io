@@ -8,6 +8,14 @@ body {
   max-width: 42rem;
 }
 
+/* Home page (trestles): smaller photo on phones */
+@media (max-width: 767.98px) {
+  .quarto-about-trestles .about-image.round {
+    width: 10em !important;
+    height: 10em !important;
+  }
+}
+
 /* Blog listing: let long URLs wrap so the date column stays visible */
 .quarto-post .body {
   min-width: 0;
